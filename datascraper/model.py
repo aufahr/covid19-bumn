@@ -24,6 +24,9 @@ class Selectors(object):
                  odp_selector: SelectorProcessor = None,
                  odp_death_selector: SelectorProcessor = None,
                  odp_done_selector: SelectorProcessor = None,
+                 total_odp_selector: SelectorProcessor = None,
+                 total_pdp_selector: SelectorProcessor = None,
+                 total_positive_selector: SelectorProcessor = None,
                  pdp_selector: SelectorProcessor = None,
                  pdp_done_selector: SelectorProcessor = None,
                  pdp_death_selector: SelectorProcessor = None,
@@ -31,7 +34,7 @@ class Selectors(object):
                  positive_selector: SelectorProcessor = None,
                  positive_recovered_selector: SelectorProcessor = None,
                  unknown_recovered_selector: SelectorProcessor = None,
-                 unknown_death_selector: SelectorProcessor = None,
+                 unknown_death_selector: SelectorProcessor = None
                  ) -> None:
         super().__init__()
         self.last_updated_selector = last_updated_selector
@@ -47,6 +50,10 @@ class Selectors(object):
         self.unknown_recovered_selector = unknown_recovered_selector
         self.unknown_death_selector = unknown_death_selector
 
+        self.total_odp_selector = total_odp_selector
+        self.total_pdp_selector = total_pdp_selector
+        self.total_positive_selector = total_positive_selector
+
 
 class GenericScraperTemplate(object):
     def __init__(self,
@@ -54,23 +61,25 @@ class GenericScraperTemplate(object):
                  url,
                  selectors: Selectors = None,
                  exec_type='GET',
-                 call=None) -> None:
+                 call=None,
+                 result_postprocessor=None) -> None:
         super().__init__()
         self.url = url
         self.selectors = selectors
         self.exec_type = exec_type
         self.region = region
         self.call = call
+        self.result_postprocessor = result_postprocessor
 
     def execute(self):
         result = {'scraped_datetime': str(datetime.datetime.now())}
 
-        if self.exec_type is 'GET':
-            site = requests.get(self.url)
+
+        if self.exec_type == 'GET':
+            site = requests.get(self.url, verify=False)
             for key, selector in self.selectors.__dict__.items():
                 if selector is not None:
-
-                    if selector.parser_type is 'bs4':
+                    if selector.parser_type == 'bs4':
                         try:
                             page = BeautifulSoup(site.text, features="lxml")
                             result[key.replace('_selector', '')] = page.select_one(selector.selector).get_text()
@@ -91,6 +100,13 @@ class GenericScraperTemplate(object):
         else:
             result = self.call()
 
-        print(result)
+
+        if self.result_postprocessor is not None:
+            result = self.result_postprocessor(result)
+
+
+        result['region'] = self.region
+
+        print("{} : {}".format(self.region, result))
         return result
 
