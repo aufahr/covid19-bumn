@@ -1,0 +1,1051 @@
+NO.;KODE PUSK.;NAMA PUSKESMAS;ALAMAT;PONED;JENIS PUSKESMAS;KOTA/KABUPATEN
+1;P3201010101;NANGGUNG;Jl. Ace Tabrani Km 5, Kec. Nanggung;1;1;Kabupaten Bogor
+2;P3201010202;CURUG BITUNG;Kp. Cibeber Nanggung, Kec. Nanggung;;2;Kabupaten Bogor
+3;P3201020101;LEUWILIANG;Jl. Raya Moch. Noor No. 3, Kec. Leuwiliang;;1;Kabupaten Bogor
+4;P3201020202;PURASEDA;Kp. Gudang, Kec. Leuwiliang;;2;Kabupaten Bogor
+5;P3201020203;SADENG PASAR;Ds. Sadeng Pasar, Kec. Leuwiliang;;2;Kabupaten Bogor
+6;P3201021201;LEUWISADENG;Kp. Joglo, Kec. Luewisadeng;;2;Kabupaten Bogor
+7;P3201030201;PAMIJAHAN;Kp. Pasar Jum' at Rt. 02/05, Kec. Pamijahan;;2;Kabupaten Bogor
+8;P3201030202;CIBENING;Ds. Cibening, Kec. Pamijahan;;2;Kabupaten Bogor
+9;P3201030203;CIASMARA;Jl. Raya KH Abd. Hamid km 15, Kec. Pamijahan;;2;Kabupaten Bogor
+10;P3201040101;CIBUNGBULANG;Jl. Raya Bungbulang Km 4, Kec. Cibungbulang;1;1;Kabupaten Bogor
+11;P3201040202;CIJUJUNG;Jl. Raya Galuga Km 19, Kec. Cibungbulang;;2;Kabupaten Bogor
+12;P3201040203;SITU UDIK;Jl. Raya KH Abd. Hamid Km 4, Kec. Cibungbulang;;2;Kabupaten Bogor
+13;P3201050201;CIAMPEA;Jl. Letnan Sukarno No. 28, Kec. Ciampea;;2;Kabupaten Bogor
+14;P3201050202;PASIR;Kp. Pasir Oray, Kec. Ciampea;;2;Kabupaten Bogor
+15;P3201050203;CIAMPEA UDIK;Kp. Laladon, Kec. Ciampea;;2;Kabupaten Bogor
+16;P3201050204;CIHIDEUNG UDIK;Ds. Cihideung Udik, Kec. Ciampea;;2;Kabupaten Bogor
+17;P3201051201;TENJOLAYA;JL. R. Abd. Fatah Tapos 2, Kec. Tenjolaya;1;2;Kabupaten Bogor
+18;P3201060101;DARMAGA;Jl. Raya Ciherang, Kec. Darmaga;;1;Kabupaten Bogor
+19;P3201060202;CANGKURAWOK;Kp Cangkurawok Rt 2/3, Kec. Darmaga;;2;Kabupaten Bogor
+20;P3201060203;KAMPUNG MANGGIS;Jl. Sirnasari, Kec. Darmaga;;2;Kabupaten Bogor
+21;P3201060204;PURWASARI;Jl. Situ Lincal RT 01/07 No. 10, Kec. Darmaga;;2;Kabupaten Bogor
+22;P3201070101;CIOMAS;Kp. Sukajaya Rt 1/2, Kec. Ciomas;1;1;Kabupaten Bogor
+23;P3201070202;CIAPUS;Jl. Raya Sukamakmur, Kec. Ciomas;;2;Kabupaten Bogor
+24;P3201070203;KOTA BATU;Jl. Raya Ciapus Komp Badak Putih, Kec. Ciomas;;2;Kabupaten Bogor
+25;P3201070204;LALADON;Komplek Laladon Permai, Kec. Ciomas;;2;Kabupaten Bogor
+26;P3201071201;TAMANSARI;Ds. Sukajaya, Kec. Tamansari;;2;Kabupaten Bogor
+27;P3201071202;SIRNA GALIH;Jl. Kapten Yusuf No.10, Kec. Tamansari;;2;Kabupaten Bogor
+28;P3201071203;SUKARESMI;Jl. Cipadung Ds Sukaresmi, Kec. Tamansari;;2;Kabupaten Bogor
+29;P3201080201;CIJERUK;Ds. Tanjungsari Rt 9/4 No. 424, Kec. Cijeruk;1;2;Kabupaten Bogor
+30;P3201080202;CIBURAYUT;Ds. Ciburayut No. 4, Kec. Cijeruk;;2;Kabupaten Bogor
+31;P3201080203;SUKAHARJA;Kec. Cijeruk;;2;Kabupaten Bogor
+32;P3201081101;CIGOMBONG;Jl. R. Abd. Fatah Tapos 2, Kec. Cigombong;1;1;Kabupaten Bogor
+33;P3201090201;CARINGIN;Jl. Kol. Bustomi Ds. Caringin, Kec. Caringin;;2;Kabupaten Bogor
+34;P3201090202;CINAGARA;Ds. Cinagara Rt2/5, Kec. Caringin;;2;Kabupaten Bogor
+35;P3201090203;CIDERUM;Kp. Cigereteg Rt 01/1, Kec. Caringin;;2;Kabupaten Bogor
+36;P3201100201;CIAWI;Jl. Raya Sukabumi Gg. Ayu, Kec. Ciawi;;2;Kabupaten Bogor
+37;P3201100202;BANJARSARI;Ds. Banjarsari Rt 05/011, Kec. Ciawi;;2;Kabupaten Bogor
+38;P3201100203;CITAPEN;Jl. Raya Tapos Ds Cipaten, Kec. Ciawi;;2;Kabupaten Bogor
+39;P3201110201;CISARUA;Jl. Raya Puncak Km 63, Kec. Cisarua;;2;Kabupaten Bogor
+40;P3201110202;CIBULAN;Jl. Raya Puncak Km 81, Kec. Cisarua;;2;Kabupaten Bogor
+41;P3201120201;MEGAMENDUNG;Ds. Cipayung Girang No. 1, Kec.  Megamendung;;2;Kabupaten Bogor
+42;P3201120202;SUKAMANAH;Kp Pasir  Muncang Rt 1/1, Kec. Megamendung;;2;Kabupaten Bogor
+43;P3201130201;CILEBUT;Kec. Sukaraja;;2;Kabupaten Bogor
+44;P3201130102;CIMANDALA;Jl. Raya Jakarta - Bogor Km 51, Kec. Sukaraja;;1;Kabupaten Bogor
+45;P3201130103;SUKARAJA;Jl. Raya Cikeas, Kec. Sukaraja;1;1;Kabupaten Bogor
+46;P3201140201;BABAKAN MADANG;Jl. Raya Babakan Madang, Kec. Babakan Madang;;2;Kabupaten Bogor
+47;P3201140202;CIJAYANTI;Jl. Cijayanti No. 6, Kec. Babakan Madang;;2;Kabupaten Bogor
+48;P3201140203;SENTUL;Jl. Pintu 3 Sirkuit Sentul, Kec. Babakan Madang;;2;Kabupaten Bogor
+49;P3201150101;SUKAMAKMUR;Ds. Sukamakmur, Kec. Sukamakmur;1;1;Kabupaten Bogor
+50;P3201150202;SUKADAMAI;Kp. Waru Ds. Sukadamai, Kec. Sukamakmur;;2;Kabupaten Bogor
+51;P3201160201;CARIU;Jl. Brigjen Darsono No. 13, Kec. Cariu;1;2;Kabupaten Bogor
+52;P3201160202;KARYAMEKAR;Ds. Karyamekar, Kec. Cariu;;2;Kabupaten Bogor
+53;P3201161101;TANJUNGSARI;Jl. Abd Halim No. 60, Kec. Tanjungsari;1;1;Kabupaten Bogor
+54;P3201170101;JONGGOL;Jl. Pojok Salak Rt 9/11, Kec. Jonggol;;1;Kabupaten Bogor
+55;P3201170202;BALEKAMBANG;Kop. Bondol Ds. Balekambang, Kec. Jonggol;;2;Kabupaten Bogor
+56;P3201170203;SUKANEGARA;Kp. Dayeuh Ds. Sukanegara, Kec. Jonggol;;2;Kabupaten Bogor
+57;P3201180201;CILEUNGSI;Ds. Cileungsi, Kec. Cileungsi;1;2;Kabupaten Bogor
+58;P3201180202;GANDOANG;Jl. Raya Cileungsi Jonggol, Kec. Cileungsi;;2;Kabupaten Bogor
+59;P3201180203;PASIR ANGIN;Jl. Raya Setu Rt 1/1, Kec. Cileungsi;;2;Kabupaten Bogor
+61;P3201180204;BOJONG;Ds. Bojong, Kec. Cileungsi;;2;Kabupaten Bogor
+60;P3201181201;KELAPA NUNGGAL;Ds. Kembang Kunung, Kec. Kelapa Nunggal;1;2;Kabupaten Bogor
+62;P3201190101;GUNUNG PUTRI;Jl. Wanaherang, Kec. Gunung Putri;;1;Kabupaten Bogor
+63;P3201190202;CIANGSANA;Kp. Cikeas Hilir Rt 5/3, Kec. Gunung Putri;;2;Kabupaten Bogor
+64;P3201190203;KRANGGAN;Jl. Raya Kranggan No. 148, Kec. Gunung Putri;;2;Kabupaten Bogor
+65;P3201190204;BOJONG NANGKA;Jl. Golf River Side, Kec. Gunung Putri;;2;Kabupaten Bogor
+66;P3201200101;CITEUREUP;Jl. Alternatif Puspanegara, Kec. Citeureup;;1;Kabupaten Bogor
+67;P3201200202;LEUWINUTUG;Jl. Setu, Kec. Citeureup;;2;Kabupaten Bogor
+68;P3201200203;TAJUR;Jl. Raya Tajur, Kec. Citeureup;;2;Kabupaten Bogor
+69;P3201210201;CIBINONG;Jl.  Raya Bogor Km 47.5, Kec. Cibinong;;2;Kabupaten Bogor
+70;P3201210202;CIRIMEKAR;Jl. Kayu Manis, Kec. Cibinong;;2;Kabupaten Bogor
+71;P3201210203;KARADENAN;Ds. Karadenan, Kec. Cibinong;;2;Kabupaten Bogor
+72;P3201210204;PABUARAN INDAH;Perum Pabuaran Indah Blok H, Kec. Cibinong;;2;Kabupaten Bogor
+73;P3201210205;SULIWER;Ds. Cibinong, Kec.Cibinong;;2;Kabupaten Bogor
+74;P3201220201;BOJONG GEDE;Kec. Bojong Gede;;2;Kabupaten Bogor
+75;P3201220202;RAGAJAYA;Kp. Caringin Rt 01/08, Kec. Bojong Gede;;2;Kabupaten Bogor
+76;P3201220203;KEMUNING;Jl Raya Tonjong Cimanggis, Kec. Bojong Gede;1;2;Kabupaten Bogor
+77;P3201221201;TAJURHALANG;Ds. Tajurhalang, Kec. Tajurhalang;1;2;Kabupaten Bogor
+78;P3201230201;KEMANG;Ds. Kemang, Kec. Kemang;;2;Kabupaten Bogor
+79;P3201230202;JAMPANG;Ds. Jampang, Kec. Kemang;;2;Kabupaten Bogor
+80;P3201231201;RANCA BUNGUR;Kec. Ranca Bungur;;2;Kabupaten Bogor
+81;P3201240201;PARUNG;Ds. Parung, Kec. Parung;1;2;Kabupaten Bogor
+82;P3201240202;BANTAR JAYA;Jl. Atang Sanjaya, Kec. Parung;;2;Kabupaten Bogor
+83;P3201241201;CISEENG;Jl. Nusa Ciseeng, Kec. Ciseeng;;2;Kabupaten Bogor
+84;P3201241202;CIBEUTEUNG UDIK;Jl. Raya Cibeuteung Udik, Kec. Ciseeng;;2;Kabupaten Bogor
+85;P3201250201;GUNUNG SINDUR;Ds. Gunung Sindur, Kec. Gunung Sindur;;2;Kabupaten Bogor
+86;P3201250202;COGREG;Jl. Raya Ciseeng, Kec. Gunung Sindur;;2;Kabupaten Bogor
+87;P3201260101;RUMPIN;Kp. Waru Sawah Rt 17/04, Kec. Rumpin;1;1;Kabupaten Bogor
+88;P3201260202;CICANGKAL;Jl.  Raya Cicangkal, Kec. Rumpin;;2;Kabupaten Bogor
+89;P3201260203;GOBANG;Jl. Raya Gobang, Kec. Rumpin;;2;Kabupaten Bogor
+90;P3201270101;CIGUDEG;Ds. Cigudeg, Kec. Cigudeg;1;1;Kabupaten Bogor
+91;P3201270202;LEBAK WANGI;Ds. Lebakwangi, Kec. Cigudeg;;2;Kabupaten Bogor
+92;P3201270203;BUNAR;Jl. Raya Jasinga Km 39, Kec. Cigudeg;;2;Kabupaten Bogor
+93;P3201271101;SUKAJAYA;Kp. Kompa Rt. 01/01 Ds. Cipay, Kec. Sukajaya;;1;Kabupaten Bogor
+94;P3201271202;KIARA PANDAK;Kp. Cipetat Rt 01/8, Kec. Sukajaya;;2;Kabupaten Bogor
+95;P3201280101;JASINGA;Jl. Letnan Sayuti, Kec. Jasinga;1;1;Kabupaten Bogor
+96;P3201280202;CURUG;Kp. Barangbang, Kec. Jasinga;;2;Kabupaten Bogor
+97;P3201280203;BAGOANG;Kp. Tarisi Rt 04/01, Kec. Jasinga;;2;Kabupaten Bogor
+98;P3201290101;TENJO;Jl. Raya Tenjo Jasinga Rt 3/2, Kec. Tenjo;;1;Kabupaten Bogor
+99;P3201290202;PASAR REBO;Kp. Pasar Rebo Rt 04/02, Kec. Tenjo;;2;Kabupaten Bogor
+100;P3201300101;PARUNG PANJANG;Jl. Moch Toha No. 3, Kec. Parung Panjang;;1;Kabupaten Bogor
+101;P3201300202;DAGO;Ds. Dago, Kec. Parung Panjang;;2;Kabupaten Bogor
+102;P3202010201;CIEMAS;Ds. Ciemas, Kec. Ciemas;;2;Kabupaten Bogor
+103;P3202010202;TAMANJAYA;Jl. Raya Tamanjaya, Kec. Ciemas;1;2;Kabupaten Bogor
+104;P3202020201;CIRACAP;H. Anwari Ds. Ciracap, Kec. Ciracap;1;2;Kabupaten Sukabumi
+105;P3202021201;WALURAN;Jl. Raya Cimukek Ds. Waluran, Kec. Waluran;1;2;Kabupaten Sukabumi
+106;P3202030201;SURADE;Jl. Raya Surade, Kec. Surade;;2;Kabupaten Sukabumi
+107;P3202030202;BUNIWANGI;Ds. Baniwangi, Kec. Surade;;2;Kabupaten Sukabumi
+108;P3202031201;CIBITUNG;Jl. Cikaso Km 6, Kec. Cibitung;;2;Kabupaten Sukabumi
+109;P3202040201;JAMPANG KULON;Jl. Raya Bojonggenteng, Kec. Jampang Kulon;;2;Kabupaten Sukabumi
+110;P3202040202;CIMANGGU;Ds. Cimanggu, Kec. Jampang Kulon;1;2;Kabupaten Sukabumi
+111;P3202050201;KALIBUNDER;Jl. Raya Kalibunder Km 14, Kec. Kali Bunder;1;2;Kabupaten Sukabumi
+112;P3202060201;TEGAL BULED;Ds. Buniasih, Kec. Tegal Buled;1;2;Kabupaten Sukabumi
+113;P3202060202;BANGBAYANG;Jl Buniwangi No. 1, Kec. Tegal Buled;;2;Kabupaten Sukabumi
+114;P3202070201;CIDOLOG;Jl. Raya Cidolog No. 40, Kec. Cidolog;;2;Kabupaten Sukabumi
+115;P3202080101;SAGARANTEN;Jl. Raya Cigadog, Kec. Sagaranten;1;1;Kabupaten Sukabumi
+116;P3202081201;CIDADAP;Jl. Raya Cidadap, Kec. Cidadap;;2;Kabupaten Sukabumi
+117;P3202082201;CURUG KEMBAR;Jl. Raya Cikadu Km 5, Kec. Curug Kembar;1;2;Kabupaten Sukabumi
+118;P3202090201;PABUARAN;Jl. Raya Puncak Tugu No. 4, Kec. Pabuaran;;2;Kabupaten Sukabumi
+119;P3202100101;LENGKONG;Jl. Raya Lengkong No.20, Kec. Lengkong;1;1;Kabupaten Sukabumi
+120;P3202110201;PELABUHAN RATU;Jl. Raya Cipatuguran, Kec. Pelabuhan Ratu;;2;Kabupaten Sukabumi
+121;P3202110202;CITARIK;Ds. Citarik, Kec. Pelabuhan Ratu;1;2;Kabupaten Sukabumi
+122;P3202111201;SIMPENAN;Jl. Citamiang Ds. Cidadap, Kec. Simpenan;1;2;Kabupaten Sukabumi
+123;P3202120201;WARUNG KIARA;Jl. Pelabuhan Ratu Km 30, Kec. Warung Kiara;1;2;Kabupaten Sukabumi
+124;P3202121201;BANTAR GADUNG;Jl. Raya Pelabuhan, Kec. Bantar Gadung;;2;Kabupaten Sukabumi
+125;P3202130101;JAMPANG TENGAH;Jl. Raya Bojonglopang Rt 07/02, Kec. Jampang Tengah;1;1;Kabupaten Sukabumi
+126;P3202131201;PURABAYA;Ds. Purabaya, Kec. Purabaya;;2;Kabupaten Sukabumi
+127;P3202140201;CIKEMBAR;Jl. Palabuhan 2 Km 18, Kec. Cikembar;1;2;Kabupaten Sukabumi
+128;P3202150201;NYALINDUNG;Jl. Raya Nyalindung Km 28, Kec. Nyalindung;;2;Kabupaten Sukabumi
+129;P3202150202;CIJANGKAR;Jl. Raya Sagaranten Km.11, Kec. Nyalindung;;2;Kabupaten Sukabumi
+130;P3202160201;GEGER BITUNG;Jl. 1eteran No.7, Kec. Geger Bitung;;2;Kabupaten Sukabumi
+131;P3202170201;SUKARAJA;Jl. Raya Sukaraja No.1 Km.5, Kec. Sukaraja;;2;Kabupaten Sukabumi
+132;P3202170202;LIMBANGAN;Goalpara Km 4 Ds. Limbangan, Kec. Sukaraja;;2;Kabupaten Sukabumi
+133;P3202171201;KEBON PEDES;Jl. Jambe Nenggang Km.8, Kec. Kebonpedes;;2;Kabupaten Sukabumi
+134;P3202172201;CIREUNGHAS;Jl. Raya Cireunghas Km.10, Kec. Cireunghas;1;2;Kabupaten Sukabumi
+135;P3202173201;SUKALARANG;Jl. Raya Lembur, Kec. Sukalarang;;2;Kabupaten Sukabumi
+136;P3202180201;KARAWANG;Jl. Selabintana Km 5,5 Selajambu, Kec. Sukabumi;;2;Kabupaten Sukabumi
+137;P3202190201;KADU DAMPIT;Jl. Saya Kadudampit Situng Gunung, Kec. Kadudampit;;2;Kabupaten Sukabumi
+138;P3202200201;CISAAT;Jl. Gelanggang Olah Raga Cisaat, Kec. Cisaat;1;2;Kabupaten Sukabumi
+139;P3202200202;SELAJAMBE;Jl. Selajambe No. 462, Kec. Cisaat;;2;Kabupaten Sukabumi
+140;P3202201201;GUNUNGGURUH;Pelabuhan 2 Km.12 Ds. Gunungguruh, Kec. Gunungguruh;;2;Kabupaten Sukabumi
+141;P3202201202;CIBOLANGKIDUL;Jl. Mangkalaya, Kec. Gunungguruh;;2;Kabupaten Sukabumi
+142;P3202210201;CIBADAK;Jl. Raya Segog Km 11, Kec. Cibadak;;2;Kabupaten Sukabumi
+143;P3202210202;SEKARWANGI;Jl. Raya Siliwangi Blk Kecamatan Cibadak, Kec. Cibadak;;2;Kabupaten Sukabumi
+144;P3202211201;CICANTAYAN;Jl. KH. Daman Huri, Kec. Cicantayan;;2;Kabupaten Sukabumi
+145;P3202212201;CARINGIN;Jl. Caringin Km.3 No.280 Selaawi, Kec. Caringin;;2;Kabupaten Sukabumi
+146;P3202220101;NAGRAK;Jl. Raya Cikidang, Kec. Nagrak;1;1;Kabupaten Sukabumi
+147;P3202220202;GIRIJAYA;Jl. Karajinan Km.10, Kec. Nagrak;;2;Kabupaten Sukabumi
+148;P3202221201;CIAMBAR;Jl. Cikatomas, Kec. Ciambar;1;2;Kabupaten Sukabumi
+149;P3202230101;CICURUG;Jl. Siliwangi No.113, Kec. Cicurug;1;1;Kabupaten Sukabumi
+150;P3202230202;CIPARI;Jl. Cipari Ds. Cisaat, Kec. Cicurug;;2;Kabupaten Sukabumi
+151;P3202240201;CIDAHU;Ds. Cidahu, Kec. Cidahu;;2;Kabupaten Sukabumi
+152;P3202250201;PARAKAN SALAK;Jl. Neglasari No.3, Kec. Parakan Salak;;2;Kabupaten Sukabumi
+153;P3202260201;PARUNGKUDA;Jl. Siliwangi No.21, Kec. Parung Kuda;;2;Kabupaten Sukabumi
+154;P3202261201;BOJONG GENTENG;Jl. Raya Berekah Km.10, Kec. Bojong Genteng;;2;Kabupaten Sukabumi
+155;P3202270201;KELAPA NUNGGAL;Jl. Raya Kelapanunggal Km.25, Kec. Kelapa Nunggal;1;2;Kabupaten Sukabumi
+156;P3202280201;CIKIDANG;Jl. Raya Cikidang, Kec. Cikidang;1;2;Kabupaten Sukabumi
+157;P3202290201;CISOLOK;Jl. Raya Cisolok, Kec. Cisolok;1;2;Kabupaten Sukabumi
+158;P3202291201;CIKAKAK;Jl. Raya Cisolok Km.7, Kec. Cikakak;;2;Kabupaten Sukabumi
+159;P3202300201;KABANDUNGAN;Jl. Tirtaatmaja No.11, Kec. Kabandungan;;2;Kabupaten Sukabumi
+1;P3203010201;AGRABINTA;Jl. Raya Bojongterong Rt 01/01 Ds. Mekarsari, Kec. Agrabinta;1;2;Kabupaten Cianjur
+2;P3203011201;PUSAKASARI;Jl. Raya Leles Ds. Pusakasari, Kec. Leles;;2;Kabupaten Cianjur
+3;P3203020101;SINDANG BARANG;Jl. Raya Sindangbarang Cd Km 1 No.4 Ds.Saganten,Kec.Sindangbarang;1;1;Kabupaten Cianjur
+4;P3203030101;CIDAUN;Jl. Raya Jayanti Cidaun, Kec. Cidaun;1;1;Kabupaten Cianjur
+5;P3203040201;NARINGGUL;Jl. Raya Ratel Gadog Kampung Naringgul, Kec. Naringgul;;2;Kabupaten Cianjur
+6;P3203050201;CIBINONG;Jl. Raya Cibinong Sindang Barang Ds. Sukajadi, Kec. Cibinong;;2;Kabupaten Cianjur
+7;P3203050202;GUNUNG BITUNG;Jl. Raya Patrol - Agrabinta Ds. Pananggapan, Kec. Cibinong;;2;Kabupaten Cianjur
+8;P3203050203;GIRIJAYA;Ds. Girijaya Pasirkuda, Kec. Pasir Kuda;;2;Kabupaten Cianjur
+9;P3203051201;CIKADU;Koleberes, Kec. Cikadu;;2;Kabupaten Cianjur
+10;P3203060201;TANGGEUNG;Pasir Kolat Tanggeung, Kec. Tanggeung;1;2;Kabupaten Cianjur
+11;P3203070201;KADUPANDAK;Ds. Kadupandak, Kec. Kadupandak;;2;Kabupaten Cianjur
+12;P3203071201;BOJONGLARANG;Jl. Pasar Bojonglarang Ds. Bojolarang, Kec. Cijati;;2;Kabupaten Cianjur
+13;P3203071202;CIJATI;Ds. Cijati, Kec. Cijati;1;2;Kabupaten Cianjur
+14;P3203080201;TAKOKAK;Jl. Pasanggrahan No. 9 Ds. Pasawahan, Kec. Takokak;1;2;Kabupaten Cianjur
+15;P3203090101;SUKANAGARA;Jl. Raya Sukanagara, Kec. Sukanagara;1;1;Kabupaten Cianjur
+16;P3203100101;PAGELARAN;Jl. Raya Pagelaran No. 18 Ds. Pagelaran, Kec. Pagelaran;1;1;Kabupaten Cianjur
+17;P3203100202;SINDANGKERTA;Jl. Pasir Sari Ds. Sindangkerta, Kec. Pagelaran;;2;Kabupaten Cianjur
+18;P3203110201;CAMPAKA;Jl. Raya Warungbitung Ds. Sukajadi, Kec. Campaka;;2;Kabupaten Cianjur
+19;P3203111201;CAMPAKAMULYA;Jl. Warungkadu Km 5 , Kec. Campakamulya;;2;Kabupaten Cianjur
+20;P3203120201;CIBEBER;Jl. Raya Cibeber Km 14 Cihaur, Kec. Cibeber;1;2;Kabupaten Cianjur
+21;P3203120202;CIBAREGBEG;Kampung Nangelang Ds. Cibaregbeg, Kec. Cibeber;;2;Kabupaten Cianjur
+22;P3203130201;WARUNGKONDANG;Jl. Sukabumi Ds Jambudipa No. 43, Kec. Warungkondang;;2;Kabupaten Cianjur
+23;P3203131201;GEKBRONG;Jl. Raya Sukabumi Km 15 Ds Gekbrong, Kec. Gekbrong;;2;Kabupaten Cianjur
+24;P3203140201;SUKASARI;Jl. Raya Cibeber Km 9 No. 14 Sukasari, Kec. Cilaku;1;2;Kabupaten Cianjur
+25;P3203150201;SUKALUYU;Jl. Bojongsari Sukamulya, Kec. Sukaluyu;;2;Kabupaten Cianjur
+26;P3203160201;BOJONGPICUNG;Jl. Moch. Ali  Ds. Neglasari, Kec. Bojongpicung;;2;Kabupaten Cianjur
+27;P3203160202;CIKONDANG;Jl. Cikondang Sukarama, Kec. Bojongpicung;;2;Kabupaten Cianjur
+28;P3203170101;CIRANJANG;Jl. Rumah Sakit No. 194, Kec. Ciranjang;1;1;Kabupaten Cianjur
+29;P3203161201;CIPEUYEUM;Jl. Raya Bandung Ds. Kertamukti Haurwangi, Kec. Haurwangi;1;2;Kabupaten Cianjur
+30;P3203180101;MANDE;Jl. Arwinda Km 9 Ds. Jamali, Kec. Mande;1;1;Kabupaten Cianjur
+31;P3203180202;KADEMANGAN;Jl. Aria Nata Mangala Ds. Kademangan, Kec. Mande;;2;Kabupaten Cianjur
+32;P3203190201;KARANG TENGAH;Jl. Raya Bandung Km 4 No. 14 Ds Bojong, Kec. Karang Tengah;;2;Kabupaten Cianjur
+33;P3203190202;CIHERANG;Jl. Raya Bandung Km 8 Ds. Ciherang , Kec. Karang Tengah;;2;Kabupaten Cianjur
+34;P3203200201;CIANJUR KOTA;Jl. Panggeran Hidayatullah No. 1, Kec. Cianjur;;2;Kabupaten Cianjur
+35;P3203200202;NAGRAK;Jl. Gaot Mangun Praja  Nagrak, Kec. Cianjur;;2;Kabupaten Cianjur
+36;P3203200203;MUKA;Jl. Dr Muwardi No. 2A Muka, Kec. Cianjur;;2;Kabupaten Cianjur
+37;P3203210201;CUGENANG;Jl. Cariu No. 1 Ds. Mangunkerta, Kec. Cugenang;1;2;Kabupaten Cianjur
+38;P3203210202;CIJEDIL;Jl. Raya Puncak Km 7 Ds. Cijedil, Kec. Cugenang;;2;Kabupaten Cianjur
+39;P3203220201;CIPENDAWA;Jl. Wijaya Kusumah Ds. Cipendawa, Kec. Pacet;;2;Kabupaten Cianjur
+40;P3203220202;SUKANAGALIH;Jl. Tegal Tengah Ds. Sukanagalih, Kec. Pacet;;2;Kabupaten Cianjur
+41;P3203221201;CIPANAS;Jl. Pahlawan No. 1, Kec. Cipanas;;2;Kabupaten Cianjur
+42;P3203230101;SUKARESMI;Jl.Mariwati Km 6 Ds. Kawungluwuk, Kec. Sukaresmi;1;1;Kabupaten Cianjur
+43;P3203230202;SUKAMAHI;Jl. Sadamanya No. D 13 Ds. Sukamahi, Kec. Sukaresmi;;2;Kabupaten Cianjur
+44;P3203240101;CIKALONGKULON;Jl. Aria Wiratanudatar Ds. Sukagalih, Kec. Cikalongkulon;1;1;Kabupaten Cianjur
+45;P3203240202;CIJAGANG;Jl. Kramat Cikundul Ds. Cijagang, Kec. Cikalongkulon;;2;Kabupaten Cianjur
+1;P3204010201;CIWIDEY;Jl. Babakan 3 Ds. Ciwidey, Kec. Ciwidey;;2;Kabupaten Bandung
+2;P3204010202;RAWABOGO;Ds. Rawabogo, Kec. Ciwidey;;2;Kabupaten Bandung
+3;P3204011201;RANCABALI;Jl. Rancabali Situpatenggang Ds. Patengan, Kec. Rancabali;1;2;Kabupaten Bandung
+4;P3204020201;PASIR JAMBU;Ds. Pasirjambu, Kec. Pasir Jambu;1;2;Kabupaten Bandung
+5;P3204020202;SUGIHMUKTI;Ds. Sugihmukti, Kec. Pasir Jambu;;2;Kabupaten Bandung
+6;P3204040101;PANGALENGAN DTP;Jl. Alun-Alun Pengalengan, Ds. Pangalengan, Kec. Pangalengan;1;1;Kabupaten Bandung
+7;P3204040202;SUKAMANAH;Kampung Pintu Ds. Sukamanah, Kec. Pangalengan;;2;Kabupaten Bandung
+8;P3204040203;WARNASARI;Ds. Warnasari, Kec. Pangalengan;;2;Kabupaten Bandung
+9;P3204030201;CIKALONG;Jl. Raya Pengalengan Ds. Cikalong, Kec. Cimaung;;2;Kabupaten Bandung
+10;P3204030202;CAMPAKAMULYA;Jl. Gunung Puntang Ds. Campakamulya, Kec. Cimaung;;2;Kabupaten Bandung
+11;P3204050201;KERTA SARI;Jl. Lebaksari Ds. Cibeureum, Kec. Kertasari;1;2;Kabupaten Bandung
+12;P3204050202;SANTOSA;Jl. Raya Santosa Ds. Santosa, Kec. Kertasari;;2;Kabupaten Bandung
+13;P3204060201;PACET;Jl. Cagak Ds. Maruyung, Kec. Pacet;1;2;Kabupaten Bandung
+14;P3204060202;PANCA;Ds. Nagrak, Kec. Pacet;;2;Kabupaten Bandung
+15;P3204070201;IBUN;Jl. Raya Oma Anggawisata Ds. Ibun, Kec. Ibun;1;2;Kabupaten Bandung
+16;P3204070202;SUDI;Ds. Sudi, Kec. Ibun;;2;Kabupaten Bandung
+17;P3204080201;PASEH;Jl. Cipaku No.94 Ds. Cipaku, Kec. Paseh;;2;Kabupaten Bandung
+18;P3204080202;CIPEDES;Ds. Cipedes, Kec. Paseh;;2;Kabupaten Bandung
+19;P3204090201;CIKANCUNG;Jl. Cinangka Ds. Mandalasari, Kec. Cikancung;1;2;Kabupaten Bandung
+20;P3204090202;CILULUK;Jl. Raya Cijapati Ds. Ciluluk, Kec. Cikancung;;2;Kabupaten Bandung
+21;P3204100101;CICALENGKA DTP;Jl. Raya Cicalengka No.321 Ds. Cicalengka Wetan, Kec. Cicalengka;;1;Kabupaten Bandung
+22;P3204100202;SAWAHLEGA;Ds. Nagrog, Kec. Cicalengka;;2;Kabupaten Bandung
+23;P3204101201;NAGREG;Jl. Raya Nagreg Km.37 Ds. Nagreg, Kec. Nagreg;1;2;Kabupaten Bandung
+24;P3204110101;RANCA EKEK DTP;Ds. Rancaekek Wetan, Kec. Rancaekek;1;1;Kabupaten Bandung
+25;P3204110202;LINGGAR;Jl. Raya Garut Ds. Linggar, Kec. Rancaekek;;2;Kabupaten Bandung
+26;P3204110203;NANJUNGMEKAR;Jl. Raya Cicalengka Ds. Nanjungmekar, Kec. Rancaekek;;2;Kabupaten Bandung
+27;P3204120201;CIKARO;Jl. Talun Ds. Majakerta, Kec. Majalaya;;2;Kabupaten Bandung
+28;P3204120202;MAJALAYA;Jl. Stasiun No.1 Ds. Majalaya, Kec. Majalaya;;2;Kabupaten Bandung
+29;P3204120203;WANGISAGARA;Jl. Raya Pacet Ds. Wangisagara, Kec. Majalaya;;2;Kabupaten Bandung
+30;P3204121202;PADAMUKTI;Jl. Panyadap Ds. Padamukti, Kec. Solokan Jeruk;;2;Kabupaten Bandung
+31;P3204121201;SOLOKAN JERUK;Ds. Solokan Jeruk Rt 01/RW 3, Kec. Solokan Jeruk;1;2;Kabupaten Bandung
+32;P3204130101;CIPARAY DTP;Jl. Raya Lasur No. 819, Ds. Ciparay, Kec. Ciparay;1;1;Kabupaten Bandung
+33;P3204130202;PAKUTANDANG;Ds. Pakutandang, Kec. Ciparay;;2;Kabupaten Bandung
+34;P3204130203;SUMBERSARI;Ds. Sumbersari, Kec. Ciparay;;2;Kabupaten Bandung
+35;P3204140201;BALEENDAH;Jl. Kiastramanggala Ds. Baleendah, Kec. Baleendah;;2;Kabupaten Bandung
+36;P3204140202;JELEKONG;Jl. Raya Ciparay Ds. Jelekong, Kec. Baleendah;;2;Kabupaten Bandung
+37;P3204140203;RANCAMANYAR;Ds. Rancamanyar, Kec. Baleendah;;2;Kabupaten Bandung
+38;P3204150201;ARJASARI;Jl. Raya Arjasari Ds. Arjasari, Kec. Arjasari;;2;Kabupaten Bandung
+39;P3204150102;BANJARAN NAMBO DTP;Ds. Batukarut, Kec. Arjasari;1;1;Kabupaten Bandung
+40;P3204161201;NAGRAK;Kmp Singkur Ds. Jatisari, Kec. Cangkuang;;2;Kabupaten Bandung
+41;P3204160201;KIANGROKE;Jl. Pangalengan Ds. Kiangroke, Kec. Banjaran;;2;Kabupaten Bandung
+42;P3204160202;BANJARAN;Ds. Banjaran Kulon, Kec. Banjaran;;2;Kabupaten Bandung
+43;P3204170201;PAMEUNGPEUK;Jl. Raya Banjaran Km 14 Ds. Sukasari, Kec. Pameungpeuk;;2;Kabupaten Bandung
+44;P3204180201;KATAPANG;Jl. Terusan Kopo No. 20, Ds. Katapang, Kec. Katapang;;2;Kabupaten Bandung
+45;P3204180202;SANGKAN HURIP;Ds. Sukamukti, Kec. Katapang;;2;Kabupaten Bandung
+46;P3204190201;SOREANG;Ds. Pamekaran, Kec. Soreang;;2;Kabupaten Bandung
+47;P3204190202;SUKAJADI;Ds. Sukajadi, Kec. Soreang;;2;Kabupaten Bandung
+48;P3204191201;KUTAWARINGIN;Ds. Jatisari, Kec. Kutawaringin;;2;Kabupaten Bandung
+49;P3204191202;KOPO;Ds. Kopo, Kec. Kutawaringin;;2;Kabupaten Bandung
+50;P3204250201;MARGA ASIH;Jl. Nanjung Ds. Margaasih, Kec. Margaasih;1;2;Kabupaten Bandung
+51;P3204250202;RAHAYU;Jl. Cibolerang Ds. Rahayu, Kec. Margaasih;;2;Kabupaten Bandung
+52;P3204260201;BIHBUL;Jl. Kopo 14 Ds. Margahayu Tengah, Kec. Margahayu;;2;Kabupaten Bandung
+53;P3204260202;MARGAHAYU SELATAN;Komp Margahayu Kencana Blok E4, Ds.Margahayu Sel., Kec. Margahayu;;2;Kabupaten Bandung
+54;P3204270201;DAYEUH KOLOT;Jl. Raya Dayeuhkolot No. 423, Ds. Dayeuh Kolot, Kec. Dayeuh Kolot;;2;Kabupaten Bandung
+55;P3204270202;CANGKUANG;Jl. Cangkuang RT 02/ RW 07, Ds. Cangkuang Barat, Kec. Dayeuh Kolot;;2;Kabupaten Bandung
+56;P3204280201;BOJONGSOANG;Jl. Terusan Buah Batu Ds. Cipagalo, Kec. Bojongsoang;;2;Kabupaten Bandung
+57;P3204290201;CINUNUK;Jl. Raya Cinunuk No. 209, Ds. Cinunuk, Kec. Cileunyi;;2;Kabupaten Bandung
+58;P3204290202;CILEUNYI;Jl. Raya Cileunyi Ds. Cileunyi Wetan, Kec. Cileunyi;;2;Kabupaten Bandung
+59;P3204290203;CIBIRU HILIR;Ds. Cibiru Hilir, Kec. Cileunyi;;2;Kabupaten Bandung
+60;P3204300201;CILENGKRANG;Komp Pasir Jati Blok D, Ds. Jatiendah, Kec. Cilengkrang;;2;Kabupaten Bandung
+61;P3204310201;CIMENYAN;Jl. Padasuka Ds. Cimenyan, Kec. Cimenyan;;2;Kabupaten Bandung
+62;P3204310202;CIBEUNYING;Jl. Majalaya, Ds. Cibeunying, Kec. Cimenyan;;2;Kabupaten Bandung
+1;P3205010101;CISEWU DTP;Jl. Puswakbakti No.13, Ds. Cisewu, Kec. Cisewu;1;1;Kabupaten Garut
+2;P3205011201;SUKA RAME;Jl. Rancabuaya, Ds. Purbayani, Kec. Caringin;1;2;Kabupaten Garut
+3;P3205020201;TALEGONG;Jl. Talegong, Ds. Sukamulya, Kec. Talegong;1;2;Kabupaten Garut
+4;P3205030101;BUNGBULANG DTP;Jl. Garuda, Ds. Bungbulang, Kec. Bungbulang;1;1;Kabupaten Garut
+5;P3205050101;SINDANGRATU DTP;Jl. Raya Bungbulan Km.65, Ds. Jatiwangi, Kec. Pakenjeng;1;1;Kabupaten Garut
+6;P3205031201;MEKARMUKTI;Jl. Raya Pantai Cijayana, Ds.Mekarmukti, Kec. Mekarmukti;;2;Kabupaten Garut
+7;P3205040201;PAMULIHAN;Jl. Raya Pakenjeng, Ds. Pakenjeng, Kec. Pamulihan;;2;Kabupaten Garut
+8;P3205040202;CISANDAAN;Jl. Raya Bungbulang, Ds. Pamulihan, Kec. Pamulihan;;2;Kabupaten Garut
+9;P3205060201;CIKELET;Jl. Raya Cikelet, Ds. Cikelet, Kec. Cikelet;1;2;Kabupaten Garut
+10;P3205060202;CIMARI;Ds. Cigadog, Kec. Cikelet;;2;Kabupaten Garut
+11;P3205070101;PEMEUNGPEUK DTP;Jl. Raya Pameungpeuk No. 21-23, Ds. Mandalakasih, Kec. Pamengpeuk;1;1;Kabupaten Garut
+12;P3205080201;CIBALONG;Jl. Raya Miramareu, Ds. Karyasari, Kec. Cibalong;1;2;Kabupaten Garut
+13;P3205080202;MAROKO;Ds. Maroko, Kec. Cibalong;;2;Kabupaten Garut
+14;P3205090201;CISOMPET;Jl. Raya Cisompet No.74, Ds. Cisompet, Kec. Cisompet;1;2;Kabupaten Garut
+15;P3205100201;PEUNDEUY;Jl. Peundeuy, Ds. Peundeuy, Kec. Peundeuy;1;2;Kabupaten Garut
+16;P3205110101;SINGA JAYA DTP;Jl. Raya Singajaya, Ds. Singajaya, Kec. Singajaya;1;1;Kabupaten Garut
+17;P3205111201;CIHURIP;Jl. Cihurip, Ds. Cihurip, Kec. Cihurip;;2;Kabupaten Garut
+18;P3205120101;CIKAJANG DTP;Jl. Raya Cihurip, Ds. Cikajang, Kec. Cikajang;1;1;Kabupaten Garut
+19;P3205130201;BANJAR WANGI;Jl. Raya Banjarwangi, Ds. Banjarwangi, Kec. Banjarwangi;;2;Kabupaten Garut
+20;P3205140101;CILAWU DTP;Jl. Raya Garut -Tasik No.73, Ds. Cilawu, Kec. Cilawu;1;1;Kabupaten Garut
+21;P3205140202;BOJONGLOA;Jl. Raya Garut- Tasik Km.14, Ds. Sukamaju, Kec. Cilawu;;2;Kabupaten Garut
+22;P3205150101;BAYONGBONG DTP;Jl. Simpang No.193, Ds. Mulyasari, Kec. Bayongbong;1;1;Kabupaten Garut
+23;P3205150202;CILIMUS;Jl. Raya Bayongbong, Ds. Sukarame, Kec. Bayongbong;;2;Kabupaten Garut
+24;P3205151201;SUKAHURIP;Jl. Raya Ciledug No.23, Ds. Sukahurip, Kec. Cigedug;;2;Kabupaten Garut
+25;P3205160101;CISURUPAN DTP;Jl. Raya Cisurupan No. 27, Ds. Balewangi, Kec. Cisurupan;1;1;Kabupaten Garut
+26;P3205160202;PAKUWON;Ds. Pakuwon, Kec. Cisurupan;;2;Kabupaten Garut
+27;P3205161201;SUKAMULYA;Jl. Sukamulya, Ds. Sukamulya, Kec. Sukaresmi;1;2;Kabupaten Garut
+28;P3205170201;SAMARANG;Jl. Raya Samarang No.85, Ds. Samarang, Kec. Samarang;;2;Kabupaten Garut
+29;P3205170202;SUKAKARYA;Kec. Samarang;;2;Kabupaten Garut
+30;P3205171201;PADAWAAS;Jl. Raya Pasirwangi, Ds. Padawaas, Kec. Pasirwangi;;2;Kabupaten Garut
+31;P3205171202;GADOG;Jl. Raya Pasirwangi, Ds. Sirnajaya, Kec. Pasirwangi;;2;Kabupaten Garut
+32;P3205181201;HAUR PANGGUNG;Jl. Guntur Melati, Ds. Haur Panggung, Kec. Tarogong Kidul;;2;Kabupaten Garut
+33;P3205181202;KERSAMENAK;Jl. Raya Cikamiri, Ds. Kersamenak, Kec. Tarogong Kidul;;2;Kabupaten Garut
+34;P3205181203;PEMBANGUNAN;Jl. Pembangunan No.216, Ds. Sukagalih, Kec. Tarogong Kidul;;2;Kabupaten Garut
+35;P3205182201;CIPANAS;Ds. Rancabango, Kec. Tarogong Kaler;;2;Kabupaten Garut
+36;P3205182102;TAROGONG DTP;Jl. Suherman No.3, Ds. Tarogong, Kec. Tarogong Kaler;1;1;Kabupaten Garut
+37;P3205182203;MEKARWANGI;Jl. Raya Samarang No.218, Ds. Mekarwangi, Kec. Tarogong Kaler;;2;Kabupaten Garut
+38;P3205190201;SILIWANGI;Jl. Siliwangi No.13, Ds. Paminggir, Kec. Garut Kota;;2;Kabupaten Garut
+39;P3205190202;GUNTUR;Jl. Guntur No.234,Ds. Sukamantri , Kec. Garut Kota;;2;Kabupaten Garut
+40;P3205190203;PASUNDAN;Jl. Pasundan No.104, Ds. Cimuncang, Kec. Garut Kota;;2;Kabupaten Garut
+41;P3205200201;KARANGPAWITAN;Jl. Raya Karangpawitan, Ds. Karangpawitan, Kec. Karangpawitan;;2;Kabupaten Garut
+42;P3205200202;KARANGMULYA;Jl. Cibangban, Ds. Jatisari, Kec. Karangpawitan;;2;Kabupaten Garut
+43;P3205200203;CEMPAKA;Ds. Lebakjaya, Kec. Karangpawitan;;2;Kabupaten Garut
+44;P3205210101;WANARAJA DTP;Jl. Raya Wanaraja No.30, Ds. Wanaraja, Kec. Wanaraja;;1;Kabupaten Garut
+45;P3205211201;GARAWANGSA;Ds. Sukaratu, Kec. Sucinaraja;1;2;Kabupaten Garut
+46;P3205212201;CIMARAGAS;Jl. Raya Cibatu, Ds. Cimaragas, Kec. Pangatikan;;2;Kabupaten Garut
+47;P3205220201;SUKAWENING;Jl. Sukawening No.18, Ds. Pasanggrahan, Kec. Sukawening;;2;Kabupaten Garut
+48;P3205220202;SUKA MUKTI;Jl. Raya Sukamukti, Ds. Sukamukti, Kec. Sukawening;;2;Kabupaten Garut
+49;P3205220203;MARIPARI;Jl. Raya Cibatu Km. 4,5,  Ds. Maripari, Kec. Sukawening;1;2;Kabupaten Garut
+50;P3205221201;KARANGTENGAH;Jl. Raya Cintamanik, Ds. Karangtengah,Kec. Karangtengah;;2;Kabupaten Garut
+51;P3205230201;SUKA SENANG;Jl. H. Hasan Arif, Ds. Sukasenang, Kec. Banyuresmi;;2;Kabupaten Garut
+52;P3205230202;BAGENDIT;Ds. Sukamukti, Kec. Banyuresmi;1;2;Kabupaten Garut
+53;P3205230203;SUKARAJA;Jl. Raya Warung Peuteuy, Ds. Sukaraja, Kec. Banyuresmi;;2;Kabupaten Garut
+54;P3205240101;LELES DTP;Jl. Pramuka No. 4, Ds. Leles, Kec. Leles;;1;Kabupaten Garut
+55;P3205240202;LEMBANG;Ds. Lembang, Kec. Leles;1;2;Kabupaten Garut
+56;P3205250201;LEUWIGOONG;Jl. Raya Leuwigoong No.4, Ds. Lewigoong, Kec. Lewigoong;;2;Kabupaten Garut
+57;P3205260101;CIBATU DTP;Jl. Ki Hajardewantoro No.10, Ds. Cibatu, Kec. Cibatu;1;1;Kabupaten Garut
+58;P3205261201;SUKAMERANG;Jl. Sukamerang, Ds. Sukamerang, Kec. Kersamanah;;2;Kabupaten Garut
+59;P3205270201;CIBIUK;Jl. Raya Leuwigoong, Ds. Cibiuk, Kec. Cibiuk;;2;Kabupaten Garut
+60;P3205280201;RANCASALAK;Jl. Raya Rancasalak - Kadungora, Ds. Mandalasari, Kec. Kadungora;;2;Kabupaten Garut
+61;P3205280202;KADUNGORA;Jl. Raya Kadungora, Ds. Kadungora, Kec. Kadungora;;2;Kabupaten Garut
+62;P3205290101;BALUBUR LIMBANGAN D;Jl. Raya Limbangan No.119, Ds. Limbangan Tengah, Kec. Blubur Limbangan;1;1;Kabupaten Garut
+63;P3205300201;SELAAWI;Jl. Raya Selaawi No.49,Ds. Selaawi, Kec. Selaawi;1;2;Kabupaten Garut
+64;P3205310101;MALANGBONG DTP;Jl. Raya Malangbong, Ds. Malangbong, Kec. Malangbong;1;1;Kabupaten Garut
+65;P3205310202;CITERAS;Jl. Raya Malangbong Km.5, Ds. Bunisari, Kec. Malangbong;;2;Kabupaten Garut
+1;P3206010101;CIPATUJAH;Jl. Raya Cipatujah 123, Kec. Cipatujah;1;1;Kabupaten Tasikmalaya
+2;P3206020101;KARANG NUNGGAL;Ds. Karangnunggal No. 12, Kec. Karangnunggal;1;1;Kabupaten Tasikmalaya
+3;P3206030101;CIKALONG;Ds. Cikalong, Kec. Cikalong;1;1;Kabupaten Tasikmalaya
+5;P3206040201;PANCATENGAH;Jl. Raya Pancatengah, Kec. Panca Tengah;1;2;Kabupaten Tasikmalaya
+11;P3206050101;CIKATOMAS;Ds. Cikatomas, Kec. Cikatomas;1;1;Kabupaten Tasikmalaya
+13;P3206060201;CIBALONG;Ds. Cibalong, Kec. Cibalong;;2;Kabupaten Tasikmalaya
+17;P3206061201;PARUNGPONTENG;Ds. Parungponteng, Kec. Parung Ponteng;;2;Kabupaten Tasikmalaya
+21;P3206070201;BANTARKALONG;Ds. Simpang, Kec. Bantar Kalong;1;2;Kabupaten Tasikmalaya
+24;P3206071101;BOJONGASIH;Ds. Bojongasih, Kec. Bojong Asih;1;1;Kabupaten Tasikmalaya
+36;P3206072201;CULAMEGA;Ds. Culamega, Kec. Culamega;;2;Kabupaten Tasikmalaya
+37;P3206080201;BOJONGGAMBIR;Ds. Bojonggambir, Kec. Bojonggambir;;2;Kabupaten Tasikmalaya
+4;P3206090201;SODONGHILIR;Ds. Sodonghilir, Kec. Sodonghilir;;2;Kabupaten Tasikmalaya
+6;P3206100101;TARAJU;Jl. Raya Taraju Rt 006/01, Kec. Taraju;1;1;Kabupaten Tasikmalaya
+7;P3206110201;SALAWU;Jl. Raya Salawu 118, Kec. Salawu;;2;Kabupaten Tasikmalaya
+8;P3206111201;PUSPAHIANG;Jl. Raya Puspahiang 7, Kec. Puspahiang;1;2;Kabupaten Tasikmalaya
+9;P3206120201;TANJUNGJAYA;Ds. Cibalanarik, Kec. Tanjung Jaya;;2;Kabupaten Tasikmalaya
+10;P3206130101;SUKARAJA;Ds. Sukaraja, Kec. Sukaraja;1;1;Kabupaten Tasikmalaya
+12;P3206140201;SALOPA;Jl. Raya Salopa 226, Kec. Salopa;;2;Kabupaten Tasikmalaya
+14;P3206141201;JATIWARAS;Ds. Jatiwaras, Kec. Jatiwaras;;2;Kabupaten Tasikmalaya
+15;P3206150201;CINEAM;Ds. Cineam, Kec. Cineam;1;2;Kabupaten Tasikmalaya
+16;P3206160101;MANONJAYA;Jl. Perumahan 6, Kec. Manonjaya;1;1;Kabupaten Tasikmalaya
+18;P3206161201;GUNUNGTANJUNG;Ds. Gunungtanjung, Kec. Gunungtanjung;;2;Kabupaten Tasikmalaya
+19;P3206190201;SINGAPARNA;Ds. Singaparna, Kec. Singaparna;;2;Kabupaten Tasikmalaya
+20;P3206190102;TINEWATI;Jl. Raya Singaparna, Kec. Singaparna;1;1;Kabupaten Tasikmalaya
+22;P3206191101;SUKARAME;Ds. Sukarame, Kec. Sukarame;;1;Kabupaten Tasikmalaya
+23;P3206192201;MANGUNREJA;Ds. Mangunreja, Kec. Mangunreja;;2;Kabupaten Tasikmalaya
+25;P3206200101;CIGALONTANG;Ds. Cigalontang, Kec. Cigalontang;;1;Kabupaten Tasikmalaya
+26;P3206210201;LEUWI SARI;Ds. Leuwisari, Kec. Leuwisari;;2;Kabupaten Tasikmalaya
+27;P3206210202;KARANGJAYA;Ds. Sirnajaya, Kec. Leuwisari;;2;Kabupaten Tasikmalaya
+28;P3206211201;SARIWANGI;Ds. Sariwangi, Kec. Sariwangi;;2;Kabupaten Tasikmalaya
+29;P3206212201;CISARUNI;Jl. Kantor Pos, Kec. Padakembang;;2;Kabupaten Tasikmalaya
+30;P3206221101;SUKARATU;Ds. Sukaratu, Kec. Sukaratu;1;1;Kabupaten Tasikmalaya
+31;P3206230201;CISAYONG;Ds. Cisayong, Kec. Cisayong;;2;Kabupaten Tasikmalaya
+32;P3206231201;SUKAHENING;Ds. Sukahening, Kec. Sukahening;1;2;Kabupaten Tasikmalaya
+33;P3206240101;RAJAPOLAH;Ds. Rajapolah, Kec. Rajapolah;1;1;Kabupaten Tasikmalaya
+34;P3206250101;JAMANIS;Ds. Jamanis, Kec. Jamanis;;1;Kabupaten Tasikmalaya
+35;P3206260101;CIAWI;Jl. Panumbangan, Kec. Ciawi;1;1;Kabupaten Tasikmalaya
+38;P3206261201;KADIPATEN;Pos Ciawi 46156, Kec. Kadipaten;;2;Kabupaten Tasikmalaya
+39;P3206270201;PAGERAGEUNG;Tanjaknangsi 18, Kec. Pagerageung;1;2;Kabupaten Tasikmalaya
+40;P3206271201;SUKARESIK;Ds. Sukaresik, Kec. Sukaresik;1;2;Kabupaten Tasikmalaya
+1;P3207010201;CIMERAK;Jl. Raya Sindangsari No. 36 Rt. 04 Rw.02 Ds. Sukajaya, Kec. Cimerak;1;2;Kabupaten Ciamis
+2;P3207010202;LEGOKJAWA;Jl. Raya Legokjawa Ds. Legokjawa, Kec. Cimerak;;2;Kabupaten Ciamis
+3;P3207020101;CIJULANG;Jl. Pasundan No.42 Rt. 02 Rw. 08, Kec. Cijulang;1;1;Kabupaten Ciamis
+4;P3207030201;CIGUGUR;Jl. Raya Jurago No. 407 Rt 01 Rw. 01 Ds. Cigugur, Kec. Cigugur;;2;Kabupaten Ciamis
+5;P3207040201;LANGKAPLANCAR;Jl. Raya Bangunjaya, Kec. Langkaplancar;;2;Kabupaten Ciamis
+6;P3207050101;PARIGI;Jl. Raya Cijulang No.143 Rt.01 Rw. 01 Ds. Parigi, Kec. Parigi;1;1;Kabupaten Ciamis
+7;P3207050202;SELASARI;Jl. Raya Selasari Rt.05 Rw. 02 Ds. Selasari, Kec. Parigi;;2;Kabupaten Ciamis
+8;P3207060201;CIKEMBULAN;Jl. Raya Cijulang No. 93 Rt. 01 Rw 7 Ds. Cikembulan, Kec. Sidamulih;;2;Kabupaten Ciamis
+9;P3207060202;SIDAMULIH;Jl. Karangsari No. 139 Rt. 01 RW 01 Ds. Sidamulih, Kec. Sidamulih;1;2;Kabupaten Ciamis
+10;P3207070101;PANGANDARAN;Jl. Prapatan No. 11 Rt. 05 Rw. 08 Ds. Pangandaran, Kec. Pangandaran;1;1;Kabupaten Ciamis
+11;P3207080101;KALIPUCANG;Jl. Raya Kalipucang No.427 Rt.01 Rw.05 Ds.Kalipucang,Kec.Kalipucang;1;1;Kabupaten Ciamis
+12;P3207090101;PADAHERANG;Jl. Babakan Pikiran rakyat No. 2 Rt 01 Rw. 01, Kec. Padaherang;;1;Kabupaten Ciamis
+13;P3207090202;SINDANGWANGI;Jl. Raya Pangandaran No.753 Rt.01 Rw 01 Ds.Sd Wg, Kec. Padaherang;1;2;Kabupaten Ciamis
+14;P3207091101;MANGUNJAYA;Jl. Raya Mangunjaya Rt. 23 Rw. 04 Ds. Mangunjaya, Kec. Mangunjaya;1;1;Kabupaten Ciamis
+15;P3207100101;BANJARSARI;Jl. Raya Banjarsari No. 112 Rt. 01 Rw 01 Ds. Banjarsari, Kec.Banjarsari;1;1;Kabupaten Ciamis
+16;P3207100202;CIULU;Jl. Raya Pangandaran No. 85 Ds. Ciulu, Kec. Banjarsari;;2;Kabupaten Ciamis
+17;P3207100203;CIGAYAM;Dusun Sidamulya Ds. Cigayam, Kec. Banjarsari;;2;Kabupaten Ciamis
+18;P3207110101;LAKBOK;Jl. Raya Lakbok No. 607 Rt. 08 Rw. 02 Ds. Sukanagara, Kec. Lakbok;1;1;Kabupaten Ciamis
+19;P3207110202;SIDAHARJA;Jl. Bendung Manganti Rt. 16 Rw 03 Ds Sidaharja, Kec. Lakbok;;2;Kabupaten Ciamis
+20;P3207111201;CIAWITALI;Jl. Pramuka No.142  Rt 09  Rw 03 Ds. Prwd Ciawitali, Kec. Purwadadi;;2;Kabupaten Ciamis
+21;P3207120201;PAMARICAN;Jl. Raya Pamarican No. 5 Rt 25/06 Ds. Neglasari, Kec. Pamarican;;2;Kabupaten Ciamis
+22;P3207120202;KERTAHAYU;Jl. Raya Pangandaran No.532 Rt03 Rw 02 Ds.Kertahayu,Kec.Pamarican;;2;Kabupaten Ciamis
+23;P3207130201;CIDOLOG;Jl. Cidolog-Cineam Rt 02 Rw 01 Ds. Janggala, Kec. Cidolog;1;2;Kabupaten Ciamis
+24;P3207140101;CIMARAGAS;Jl. Raya Manonjaya  No. 26 Rt 01 Rw 01 Ds. Beber, Kec. Cimaragas;1;1;Kabupaten Ciamis
+25;P3207150201;CIJEUNGJING;Jl. Raya Ciamis Banjar No.625 Rt 04/02 Ds.Bjgmengger, Kec.Cijeungjing;1;2;Kabupaten Ciamis
+26;P3207150202;HANDAPHERANG;Jl. H. Hasan No. 11 Rt 08 Rw 03 Ds. Handapherang, Kec. Cijeungjing;;2;Kabupaten Ciamis
+27;P3207160201;CISAGA;Jl. Raya Banjar Ciamis Km 5 No.206 Rt7 Rw10 Ds.Mkmukti, Kec.Cisaga;;2;Kabupaten Ciamis
+28;P3207170201;TAMBAKSARI;Jl. Raya Tambaksari No. 137 Rt 01 Rw 01 Ds. Tbksari, Kec. Tambaksari;1;2;Kabupaten Ciamis
+29;P3207180101;RANCAH;Jl. Kesehatan No. 17 Rt 04 Rw 09 Ds. Situmandala, Kec. Rancah;;1;Kabupaten Ciamis
+30;P3207190201;RAJADESA;Jl. Raya Rajadesa. No. 35 Rt 03 Rw 01 Ds. Rajadesa, Kec. Rajadesa;1;2;Kabupaten Ciamis
+31;P3207200201;MARGAHARJA;Jl. Dusun Desa Rt 04 Rw 01 Ds. Margaharja, Kec. Sukadana;;2;Kabupaten Ciamis
+32;P3207210201;CIAMIS;Jl. Tentara Pelajar No. 26 Rt 01 Rw 08 Kel Ciamis, Kec. Ciamis;;2;Kabupaten Ciamis
+33;P3207210202;IMBANAGARA;Jl. Yogaswara No.2 Rt. 05 Rw 14 Dsn Lb Lp Ds.Imbanagara, Kec.Ciamis;1;2;Kabupaten Ciamis
+34;P3207211201;BAREGBEG;Jl. Raya Ds. Barebeg No. 291 Rt 01 Rw 11 Ds. Baregbeg, Kec. Barebeg;;2;Kabupaten Ciamis
+35;P3207220201;SINDANGKASIH;Jl. Raya Sindangkasih No.457 Rt 22 Rw 07 Ds.Sdg Kasih,Kec.Cikoneng;;2;Kabupaten Ciamis
+36;P3207220202;MANDALIKA;Jl. Raya Cikoneng No. 93 Rt 03 Rw 09 Ds. Cikoneng, Kec. Cikoneng;;2;Kabupaten Ciamis
+37;P3207230201;CIHAURBEUTI;Jl. Raya Utara Cihaurbeuti No. 73 Rt 01 Rw 01, Kec. Cihaurbeuti;1;2;Kabupaten Ciamis
+38;P3207230202;SUKAMULYA;Jl. Raya Panjalu No. 24 Rt 01 Rw 01 Ds. Sukamulya, Kec. Cihaurbeuti;;2;Kabupaten Ciamis
+39;P3207240201;SADANANYA;Jl. Raya Sadananya No. 477 Rt 03 Rw 01 Ds. Sd, Kec. Sadananya;;2;Kabupaten Ciamis
+40;P3207250101;CIPAKU;Jl. Raya Buniseuri No. 131 Rt 11 Rw 05 Ds. Buniseuri, Kec. Cipaku;1;1;Kabupaten Ciamis
+41;P3207250202;CIEURIH;Jl. Raya Cieurih Rt 03 Rw 02 Ds. Cieurih, Kec. Cipaku;;2;Kabupaten Ciamis
+42;P3207260201;JATINAGARA;Jl. Raya Rajadesa No. 19 Rt 14 Rw 04 Ds. Jatinagara, Kec. Jatinagara;;2;Kabupaten Ciamis
+43;P3207270101;GARDUJAYA;Jl. Ciamis Cirebon Km 45 Ds. Gardujaya, Kec. Panawangan;1;1;Kabupaten Ciamis
+44;P3207270202;PANAWANGAN;Jl. Ciamis Cirebon Km 30 Rt 01 Rw 07 Ds. Png, Kec. Panawangan;;2;Kabupaten Ciamis
+45;P3207280101;KAWALI;Jl. Siliwangi No. 264 Rt 01 Rw 01 Ds. Kawalimukti, Kec. Kawali;1;1;Kabupaten Ciamis
+46;P3207280202;LUMBUNG;Jl. Raya Kawali Panjalu Ds. Awiluar, Kec. Kawali;1;2;Kabupaten Ciamis
+47;P3207280203;KAWALIMUKTI;Jl. Talagasari No. 33 Rt 02 Rw 05 Ds. Kawalimukti, Kec. Kawali;;2;Kabupaten Ciamis
+48;P3207290101;PANJALU;Jl. Pasanggrahan No. 27 Rt 10 Rw 05 Dsn Cukang Pd, Kec. Panjalu;;1;Kabupaten Ciamis
+49;P3207291101;SUKAMANTRI;Jl. Raya Sukamantri No. 111 Rt 09 Rw 02 Ds. Skm, Kec. Sukamantri;1;1;Kabupaten Ciamis
+50;P3207300101;PANUMBANGAN;Jl. Raya Ciawi No. 209 Rt 05 Rw 04 ds. Pbg, Kec. Panumbangan;1;1;Kabupaten Ciamis
+51;P3207300202;PAYUNGSARI;Jl. Payungsari No. 3 Rt 3 Rw 3 Ds. Payungsari, Kec. Panumbangan;;2;Kabupaten Ciamis
+52;P3207041202;JADIKARYA;Dsn Jadikarya 10/03 Desa Jadikarya Kec. Langkaplancar;;2;Kabupaten Ciamis
+1;P3208010101;DARMA;Jl. Raya Darma No. 01, Kec. Darma;1;1;Kabupaten Kuningan
+2;P3208020201;KADUGEDE;Jl. Raya Kuningan - Ciamis No. 62, Kec. Kadugede;;2;Kabupaten Kuningan
+3;P3208021201;NUSAHERANG;Jl. Raya Cikadu No. 5, Kec. Nusaherang;1;2;Kabupaten Kuningan
+4;P3208030201;CINIRU;Jl. Raya Ciniru No. 57 Ds. Ciniru, Kec. Ciniru;;2;Kabupaten Kuningan
+5;P3208031201;HANTARA;Jl. Raya Hantara No. 12 Ds. Hantara, Kec. Hantara;1;2;Kabupaten Kuningan
+6;P3208040101;SELAJAMBE;Jl. Siliwangi No. 63, Kec. Selajambe;1;1;Kabupaten Kuningan
+7;P3208050201;SUBANG;Jl. H.Otto Iskandardinata No. 12, Kec. Subang;;2;Kabupaten Kuningan
+8;P3208051201;CILEBAK;Ds. Cilebak, Kec. Cilebak;;2;Kabupaten Kuningan
+9;P3208061201;KARANGKENCANA;Jl. 11 April No. 40 Ds. Karangkencana, Kec. Karangkencana;1;2;Kabupaten Kuningan
+10;P3208070101;CIBINGBIN;Jl. Raya Pasar Cibingbin No. 246, Kec. Cibingbin;1;1;Kabupaten Kuningan
+11;P3208071201;CIBEUREUM;Jl. Raya Cibeureum - Cibingbin, Kec. Cibeureum;1;2;Kabupaten Kuningan
+12;P3208071202;CIWARU;Jl. 11 April No. 479 Ds. Cimara, Kec. Cibeureum;1;2;Kabupaten Kuningan
+13;P3208080101;LURAGUNG;JHl. Raya Luragung Ds. Luragung, Kec. Luragung;;1;Kabupaten Kuningan
+14;P3208081201;CIMAHI;Ds. Cimahi, Kec. Cimahi;1;2;Kabupaten Kuningan
+15;P3208090101;CIDAHU;Jl. Raya Cidahu No. 63, Kec. Cidahu;1;1;Kabupaten Kuningan
+16;P3208091201;KALIMANGGIS;Jl. Kalimanggis No.61, Kec. Kalimanggis;1;2;Kabupaten Kuningan
+17;P3208100201;CIAWIGEBANG;Jl. Siliwangi No. 149, Kec. Ciawi Gebang;;2;Kabupaten Kuningan
+18;P3208100202;CIHAUR;Jl. Raya Cihaur No. 10 Ds. Cihaur, Kec. Ciawi Gebang;;2;Kabupaten Kuningan
+19;P3208101201;CIPICUNG;Jl. Raya Mekarsari No. 136, Kec. Cipicung;;2;Kabupaten Kuningan
+20;P3208110201;MEKARWANGI;Jl. Raya Mekarwangi No. 274, Kec. Lebakwangi;1;2;Kabupaten Kuningan
+21;P3208111201;MALEBER;Jl. Maleber No. 575, Kec. Maleber;1;2;Kabupaten Kuningan
+22;P3208120201;GARAWANGI;Jl. Raya Garawangi, Kec. Garawangi;;2;Kabupaten Kuningan
+23;P3208121201;SINDANGAGUNG;Jl. RE. Martadinata No. 532, Kec. Sindangagung;;2;Kabupaten Kuningan
+24;P3208130201;KUNINGAN;Jl. RE Martadinata No.64 Kel Cijoho, Kec. Kuningan;;2;Kabupaten Kuningan
+25;P3208130202;WINDU SENGKAHAN;Jl. Olahraga No. 12 Cut Nyak Dhien, Kec. Kuningan;;2;Kabupaten Kuningan
+26;P3208130203;LAMEPAYUNG;Jl. Raya Aruji Kartawinata No. 21, Kec. Kuningan;;2;Kabupaten Kuningan
+27;P3208140201;SUKA MULYA;Jl. Raya Sukamulya No. 597, Kec. Cigugur;1;2;Kabupaten Kuningan
+28;P3208150201;KRAMATMULYA;Jl. Raya Kramatmulya No. 08, Kec. Kramatmulya;;2;Kabupaten Kuningan
+29;P3208160201;JALAKSANA;Jl. Raya Jalaksana No. 158, Kec. Jalaksana;;2;Kabupaten Kuningan
+30;P3208161201;JAPARA;Jl. Puskesmas No. 45, Kec. Japara;;2;Kabupaten Kuningan
+31;P3208170101;CILIMUS;Jl. Raya Cilimus No. 172 Ds. Bojong, Kec. Cilimus;1;1;Kabupaten Kuningan
+32;P3208170202;LINGGARJATI;Ds. Linggarjati, Kec. Cilimus;;2;Kabupaten Kuningan
+33;P3208170203;MANGGARI;Jl. Raya Koreak,  Kec. Cilimus;1;2;Kabupaten Kuningan
+34;P3208171201;CIGANDAMEKAR;Jl. Desa Babakanjati, Kec. Cigandamekar;;2;Kabupaten Kuningan
+35;P3208180201;MANDIRANCAN;Jl. Pelantikan No. 39, Kec. Mandirancan;1;2;Kabupaten Kuningan
+36;P3208181201;PANCALANG;Jl. Raya Pancalang, Kec. Pancalang;1;2;Kabupaten Kuningan
+37;P3208190201;PASAWAHAN;Jl. Desa Pasawahan, Kec. Pasawahan;1;2;Kabupaten Kuningan
+1;P3209010201;WALED;Jl. Dewi Sartika No. 124 Ds. Waled Kota, Kec. Waled;;2;Kabupaten Cirebon
+2;P3209010202;CIBOGO;Jl. Raya KH Zaenal Arifin Ds. Cibogo No.12, Kec. Waled;;2;Kabupaten Cirebon
+3;P3209011201;PASALEMAN;Jl. Cilengkrang Induk- Pasaleman Ds. Pasaleman, Kec. Pasaleman;;2;Kabupaten Cirebon
+4;P3209020201;CILEDUG;Jl. Alun-Alun No.20, Kec. Ciledug;1;2;Kabupaten Cirebon
+5;P3209021201;PABUARAN;Jl. Pangeran Sutajaya No. 192 Pabuaran Lor, Kec. Pabuaran;;2;Kabupaten Cirebon
+6;P3209030101;LOSARI;Jl. KH Dulngalim Panggangsari, Kec. Losari;1;1;Kabupaten Cirebon
+7;P3209030202;ASTANALANGGAR;Jl. Siliwangi Rt. 01/06 Ds. Astana Langgar, Kec. Losari;;2;Kabupaten Cirebon
+8;P3209031201;TERSANA;Jl. Mayjen Sutoyo No.4, Kec. Pabedilan;1;2;Kabupaten Cirebon
+9;P3209031202;KALIBUNTU;Jl. DI Panjaitan Km 5.5 Ds. Kalibuntu, Kec. Pabedilan;;2;Kabupaten Cirebon
+10;P3209040201;BABAKAN;Jl. Pangeran Sutajaya No.48, Kec. Babakan;1;2;Kabupaten Cirebon
+11;P3209040202;GEMBONGAN;Ds. Gembongan, Kec. Babakan;;2;Kabupaten Cirebon
+12;P3209041201;GEBANG;Jl. Raya Gebang Km 21 Ds. Gebang Kulon, Kec. Gebang;1;2;Kabupaten Cirebon
+13;P3209050201;KARANG SEMBUNG;Jl. Raya Karangtengah No.02, Kec. Karangsembung;1;2;Kabupaten Cirebon
+14;P3209051201;KUBANGDELEG;Jl. Raya Kubangdeleg No.01 Karangwareng, Kec. Karangwareng;1;2;Kabupaten Cirebon
+15;P3209060101;SINDANG LAUT;Jl. Letjen Mt Haryono No.02 Lemah Abang, Kec. Lemahabang;1;1;Kabupaten Cirebon
+16;P3209061201;SUSUKAN LEBAK;Jl. Letkol HM Hassan M Yoesoef, Kec. Susukan Lebak;;2;Kabupaten Cirebon
+17;P3209070201;SEDONG;Jl. Kapten Mustofa No.06, Kec. Sedong;1;2;Kabupaten Cirebon
+18;P3209080201;ASTANA JAPURA;Jl. Raya KH Wahid Hasyim, Kec. Astanajapura;;2;Kabupaten Cirebon
+19;P3209080202;SIDAMULYA;Jl. Sidamulya No. 375. Dsa. Sidamulya, Kec. Astanajapura;;2;Kabupaten Cirebon
+20;P3209081101;PANGENAN;Jl. Raya Cirebon - Losari Km 17 Ds. Ender, Kec. Pangenan;1;1;Kabupaten Cirebon
+21;P3209090201;MUNDU;Jl. Raya Luwung No.32, Kec. Mundu;1;2;Kabupaten Cirebon
+22;P3209100101;BEBER;Jl. Jend. Sudirman No.33, Kec. Beber;1;1;Kabupaten Cirebon
+23;P3209101201;KAMARANG;Jl. Jend. A. Yani No.17, Kec. Greged;1;2;Kabupaten Cirebon
+24;P3209111201;TALUN;Jl. Pangeran Cakrabuana Ds. Kecomberan, Kec. Talun;;2;Kabupaten Cirebon
+25;P3209111202;CIPERNA;Ds. Ciperna, Kec.  Talun;;2;Kabupaten Cirebon
+26;P3209120201;SUMBER;Jl. Pangeran Kejaksaan No.49, Kec. Sumber;;2;Kabupaten Cirebon
+27;P3209120202;WATU BELAH;Jl. Tangkil Gede No. 5 Kel. Watu Belah, Kec. Sumber;1;2;Kabupaten Cirebon
+28;P3209120203;SENDANG;Jl. Syech Nurjati No. 351, Kec. Sumber;;2;Kabupaten Cirebon
+29;P3209121101;DUKU PUNTANG;Jl. Imam Bonjol Ds. Cikahalang, Kec. Dukupuntang;1;1;Kabupaten Cirebon
+30;P3209121202;SINDANG JAWA;Jl. Nyi Ageng Serang D. Sindang Jawa Kec. Duku Puntang;;2;Kabupaten Cirebon
+31;P3209130101;PALIMANAN;Jl. Otto Iskandardinata No. 07, Kec. Palimanan;1;1;Kabupaten Cirebon
+32;P3209130202;KEPUH;Jl. Ki Ageng Tepak No.147 Blok Kemadu Kulon, Kec. Palimanan;1;2;Kabupaten Cirebon
+33;P3209140101;PLUMBON;Jl. Raya Plumbon Km.12, Kec. Plumbon;1;1;Kabupaten Cirebon
+34;P3209140202;LURAH;Jl. Lurah - Keduanan No. 1, Kec. Plumbon;;2;Kabupaten Cirebon
+35;P3209141201;WARUROYOM;Jl. Warukawung, Kec. Depok;1;2;Kabupaten Cirebon
+36;P3209150201;KARANGSARI;Jl. Ki Sabalanang No.01, Kec. Weru;;2;Kabupaten Cirebon
+37;P3209151201;PANGKALAN;Jl. Nyi Gede Cangkring No. 06, Kec. Plered;;2;Kabupaten Cirebon
+38;P3209151202;PLERED;Jl. Otto Iskandardinata No.40 Plered, Kec. Plered;1;2;Kabupaten Cirebon
+39;P3209161201;ASTAPADA;Jl. Ki Ageng Tapa Ds. Astapada, Kec. Tengah Tani;;2;Kabupaten Cirebon
+40;P3209162201;KEDAWUNG;Jl. Ir H. Juanda No. 248, Kec. Kedawung;;2;Kabupaten Cirebon
+41;P3209171201;GUNUNG JATI;Jl. Sunan Gunung Jati No.56 Ds. Mertasinga, Kec. Gunungjati;;2;Kabupaten Cirebon
+42;P3209171202;MAYUNG;Jl. Ki Gede Mayung No. 36, Kec. Gunungjati;;2;Kabupaten Cirebon
+43;P3209180201;KEDATON;Jl. Sunan Gunung Jati Ds Kapetakan, Kec. Kapetakan;1;2;Kabupaten Cirebon
+44;P3209181101;SURANENGGALA;Jl. Raya Sunan Gunungjati  DS. Suranenggala, Kec. Suranenggala;1;1;Kabupaten Cirebon
+45;P3209190201;KLANGENAN;Jl. Otto Iskandardinata, Kec. Klangenan;1;2;Kabupaten Cirebon
+46;P3209190202;JEMARAS;Jl. Nyi Mas Endang Geulis No. 88,  Kec. Klangenan;;2;Kabupaten Cirebon
+47;P3209191201;WANGUN HARJA;Jl. Moh. Ramdan Ds Wangunharja, Kec. Jamblang;;2;Kabupaten Cirebon
+48;P3209200201;TEGAL GUBUG;Jl.  Lapangan Bola Ds Tegalgubug, Kec. Arjawinangun;1;2;Kabupaten Cirebon
+49;P3209201201;PANGURAGAN;Jl. Nyi Mas Gandasari No. 85, Kec. Panguragan;;2;Kabupaten Cirebon
+50;P3209210201;CIWARINGIN;Jl. Raya Ciwaringin No. 35, Kec. Ciwaringin;;2;Kabupaten Cirebon
+51;P3209211201;WINONG;Jl. By Pass Winong - Arjawinangun , Kec. Gempol;;2;Kabupaten Cirebon
+52;P3209211202;GEMPOL;Ds. Gempol, Kec.Gempol;;2;Kabupaten Cirebon
+53;P3209220201;SUSUKAN;Jl. Raya Susukan No.27, Kec. Susukan;;2;Kabupaten Cirebon
+54;P3209220202;BUNDER;Jl. Raya By Pass Bunder , Kec. Susukan;;2;Kabupaten Cirebon
+55;P3209230201;GEGESIK;Jl. Gegesik - Arjawinangun No.20, Kec. Gegesik;1;2;Kabupaten Cirebon
+56;P3209230202;JAGAPURA;Jl. Raya Jagapura - Arjawinangun, Kec. Gegesik;1;2;Kabupaten Cirebon
+57;P3209231201;KALIWEDI;Jl. Ki Gesang No.01 Kaliwedi Lor, Kec. Kaliwedi;1;2;Kabupaten Cirebon
+1;P3210010201;LEMAHSUGIH;Ds. Lemahsugih, Kec. Lemahsugih;;2;Kabupaten Majalengka
+2;P3210010202;MARGAJAYA;Ds. Margajaya Kec. Lemah Sugih;;2;Kabupaten Majalengka
+3;P3210020101;BANTARUJEG;Ds. Bantarujeg, Kec. Bantarujeg;;1;Kabupaten Majalengka
+4;P3210021201;MALAUSMA;Ds. Malausma, Kec. Malausma;;2;Kabupaten Majalengka
+5;P3210030101;CIKIJING;Ds. Cikijing, Kec. Cikijing;;1;Kabupaten Majalengka
+6;P3210031201;CINGAMBUL;Ds. Cingambul, Kec. Cingambul;;2;Kabupaten Majalengka
+7;P3210040101;TALAGA;Ds. Talagawetan, Kec. Talaga;;1;Kabupaten Majalengka
+8;P3210041201;BANJARAN;Ds. Banjaran, Kec. Banjaran;;2;Kabupaten Majalengka
+9;P3210050201;ARGAPURA;Ds. Sukasari Kidul, Kec. Argapura;;2;Kabupaten Majalengka
+10;P3210060101;MAJA;Ds. Maja Selatan, Kec. Maja;;1;Kabupaten Majalengka
+11;P3210070201;MAJALENGKA;Ds. Majalengka Wetan, Kec. Majalengka;;2;Kabupaten Majalengka
+12;P3210070202;MUNJUL;Ds. Munjul, Kec. Majalengka;;2;Kabupaten Majalengka
+13;P3210080201;CIGASONG;Ds. Baribis, Kec. Cigasong;;2;Kabupaten Majalengka
+14;P3210090201;SUKAHAJI;Ds. Cikalong, Kec. Sukahaji;;2;Kabupaten Majalengka
+15;P3210090202;SALAGEDANG;Ds. Salagedang, Kec. Sukahaji;;2;Kabupaten Majalengka
+16;P3210091201;SINDANG;Ds. Sindang, Kec. Sindang;;2;Kabupaten Majalengka
+17;P3210100101;RAJAGALUH;Ds. Rajagaluh, Kec. Rajagaluh;;1;Kabupaten Majalengka
+18;P3210110201;SINDANGWANGI;Ds. Sindangwangi, Kec. Sindangwangi;;2;Kabupaten Majalengka
+19;P3210120201;LEUWIMUNDING;Ds. Leuwimunding, Kec. Leuwimunding;;2;Kabupaten Majalengka
+20;P3210130201;WARINGIN;Ds. Waringin, Kec. Palasah;;2;Kabupaten Majalengka
+21;P3210140101;JATIWANGI;Ds. Mekar Sari, Kec. Jatiwangi;;1;Kabupaten Majalengka
+22;P3210140202;LOJI;Ds. Loji, Kec. Jatiwangi;;2;Kabupaten Majalengka
+23;P3210150201;BALIDA;Ds. Gunungsari, Kec. Dawuan;;2;Kabupaten Majalengka
+24;P3210151201;KASOKANDEL;Ds. Kasokandel, Kec. Kasokandel;;2;Kabupaten Majalengka
+25;P3210160201;PANYINGKIRAN;Ds. Karyamukti, Kec. Panyingkiran;;2;Kabupaten Majalengka
+26;P3210170201;KADIPATEN;Ds. Liangjulang, Kec. Kadipaten;;2;Kabupaten Majalengka
+27;P3210180201;KERTAJATI;Ds. Kertajati, Kec. Kertajati;;2;Kabupaten Majalengka
+28;P3210180202;SUKAMULYA;Ds. Sukamulya, Kec. Kertajati;;2;Kabupaten Majalengka
+29;P3210190101;JATITUJUH;Ds. Jatitengah, Kec. Jatitujuh;;1;Kabupaten Majalengka
+30;P3210190202;PANONGAN;Ds. Panongan, Kec. Jatitujuh;;2;Kabupaten Majalengka
+31;P3210200101;LIGUNG;Ds. Ligung, Kec. Ligung;;1;Kabupaten Majalengka
+32;P3210210101;SUMBERJAYA;Ds. Sumberjaya, Kec. Sumberjaya;;1;Kabupaten Majalengka
+1;P3211010101;JATINANGOR;Jl. Raya Jatinangor No.234, Kec. Jatinangor;1;1;Kabupaten Sumedang
+2;P3211020201;CIMANGGUNG;Jl. Raya Parakanmuncang - Simpang, Kec. Cimanggung;;2;Kabupaten Sumedang
+3;P3211030101;TANJUNG SARI;Jl. Rumah Sakit No.01, Kec. Tanjungsari;1;1;Kabupaten Sumedang
+4;P3211030202;MARGAJAYA;Jl. Ciluluk Ds. Margajaya, Kec. Tanjungsari;;2;Kabupaten Sumedang
+5;P3211031201;SUKASARI;Jl. Cibogo No.12, Kec. Sukasari;;2;Kabupaten Sumedang
+6;P3211032201;HAURNGOMBONG;Jl. Simpang Parakanmuncang, Kec. Pamulihan;;2;Kabupaten Sumedang
+7;P3211032202;PAMULIHAN;Jl. Raya Pamulihan No.111, Kec. Pamulihan;;2;Kabupaten Sumedang
+8;P3211040201;RANCA KALONG;Jl. Raya Sumedang, Kec. Rancakalong;;2;Kabupaten Sumedang
+9;P3211050201;SUMEDANG SELATAN;Jl. P. Kornel Sumedang, Kec. Sumedang Selatan;;2;Kabupaten Sumedang
+10;P3211050202;SUKAGALIH;Jl. Pagar Betis No.116, Kec. Sumedang Selatan;;2;Kabupaten Sumedang
+11;P3211060201;KOTA KALER;Jl. Sofian Iskandar, Kec. Kota Sumedang Utara;1;2;Kabupaten Sumedang
+12;P3211060202;SITU;Jl. Angkrek - Situ No.21, Kec. Sumedang Utara;;2;Kabupaten Sumedang
+13;P3211061201;GANEAS;Jl. Raya 11 April No.350, Kec. Ganeas;;2;Kabupaten Sumedang
+14;P3211070201;SITURAJA;Jl. Raya Alun-Alun Situraja No.177a, Kec. Situraja;;2;Kabupaten Sumedang
+15;P3211071201;CISITU;Jl. Cisitu, Kec. Cisitu;;2;Kabupaten Sumedang
+16;P3211080101;DARMA RAJA;Jl. Raya Barat Darmaraja No.203a, Kec. Darmaraja;1;1;Kabupaten Sumedang
+17;P3211090201;CIBUGEL;Jl. Cipasang - Cibugel No.42, Kec. Cibugel;1;2;Kabupaten Sumedang
+18;P3211100201;WADO;Jl. Raya Wado Sumedang, Kec. Wado;;2;Kabupaten Sumedang
+19;P3211101201;JATINUNGGAL;Jl. Wado - krisisk, Kec. Jatinunggal;1;2;Kabupaten Sumedang
+20;P3211111201;JATIGEDE;Jl. Raya PLTA Parakan Kondang, Kec. Jatigede;;2;Kabupaten Sumedang
+21;P3211120101;TOMO;Jl. Raya Tomo No.43, Kec. Tomo;1;1;Kabupaten Sumedang
+22;P3211130201;UJUNGJAYA;Jl. Raya Cijelag - Cikamurang No.180, Kec. Ujungjaya;1;2;Kabupaten Sumedang
+23;P3211140101;CONGGEANG;Jl. Raya Conggeang, Kec. Conggeang;1;1;Kabupaten Sumedang
+24;P3211150201;PASEH;Jl. Raya Paseh No.1, Kec. Paseh;;2;Kabupaten Sumedang
+25;P3211160201;CIMALAKA;Jl. Raya Tanjung Kerta No.72, Kec. Cimalaka;;2;Kabupaten Sumedang
+26;P3211161201;CISARUA;Jl. Ardimanggala No.46, Kec. Cisarua;;2;Kabupaten Sumedang
+27;P3211170101;SUKAMANTRI;Jl. Raya Cipadung - Sukamantri No.04, Kec. Tanjungkerta;1;1;Kabupaten Sumedang
+28;P3211170202;TANJUNG KERTA;Jl. Raya Kertaraharja, Kec. Tanjungkerta;;2;Kabupaten Sumedang
+29;P3211171201;TANJUNGMEDAR;Ds. Cikaramas, Kec. Tanjung Medar;;2;Kabupaten Sumedang
+30;P3211180201;BUAH DUA;Jl. Raya Darongdong No.04, Kec. Buah Dua;;2;Kabupaten Sumedang
+31;P3211180202;HARIANG;Ds. Hariang, Kec. Buah Dua;;2;Kabupaten Sumedang
+32;P3211181201;SURIAN;Kec. Surian;1;2;Kabupaten Sumedang
+1;P3212010101;HAUR GEULIS;Jl. Raya Gantar Km 1, Kec. Haurgeulis;1;1;Kabupaten Indramayu
+2;P3212010202;CIPANCUH;Jl. Gatot Kaca-Cipancuh, Kec. Haurgeulis;1;2;Kabupaten Indramayu
+3;P3212010203;WANAKAYA;Jl. Raya Wanakarya Km 03, Kec. Haurgeulis;;2;Kabupaten Indramayu
+4;P3212011201;GANTAR;Jl. Raya Gantar, Kec. Gantar;;2;Kabupaten Indramayu
+5;P3212020201;KROYA;Jl. PU Kroya No.7, Kec. Kroya;;2;Kabupaten Indramayu
+6;P3212020202;TEMIYANG;Jl. PU Cilege, Kec. Kroya;;2;Kabupaten Indramayu
+7;P3212030201;GABUS WETAN;Jl. PUI Saradan, Kec. Gabus Wetan;1;2;Kabupaten Indramayu
+8;P3212030202;DRUNTEN WETAN;Ds. Drunten Wetan, Kec. Gabus Wetan;;2;Kabupaten Indramayu
+9;P3212040201;CIKEDUNG;Jl. Raya Cikedung, Ds. Jambak Kec. Cikedung;;2;Kabupaten Indramayu
+10;P3212041101;TERISI;Jl. Raya Rajasinga, Kec. Terisi;1;1;Kabupaten Indramayu
+11;P3212050201;LELEA;Jl. Raya Lelea, Kec. Lelea;;2;Kabupaten Indramayu
+12;P3212050202;TUGU;Jl. Raya Tugu, Kec. Lelea;;2;Kabupaten Indramayu
+13;P3212060201;BANGO DUA;Jl. Raya Ds. Tegalgirang, Kec. Bango Dua;;2;Kabupaten Indramayu
+14;P3212061201;TUKDANA;Jl. Raya By Pass Ds Lajer, Kec. Tukdana;;2;Kabupaten Indramayu
+15;P3212070101;WIDASARI;Jl. By Pass Widasari, Kec. Widasari;1;1;Kabupaten Indramayu
+16;P3212080201;KERTA SEMAYA;Jl. By Pass Tuluangung, Kec. Kertasemaya;;2;Kabupaten Indramayu
+17;P3212081101;SUKAGUMIWANG;Ds. Sukagumiwang, Kec. Sukagumiwang;1;1;Kabupaten Indramayu
+18;P3212090201;KRANGKENG;Jl. Raya Krangkeng, Kec. Krangkeng;1;2;Kabupaten Indramayu
+19;P3212090202;KEDUNGWUNGU;Jl. Raya Kedungwungu, Kec. Krangkeng;;2;Kabupaten Indramayu
+20;P3212100201;KARANG AMPEL;Jl. Lapangan Bola Benda, Kec. Karang Ampel;1;2;Kabupaten Indramayu
+21;P3212100202;KAPLONGAN;Jl. Kaplongan Lor, Kec. Karang Ampel;;2;Kabupaten Indramayu
+22;P3212101101;KERTICALA;Jl. Raya Kerticala, Kec. Tukdana;1;1;Kabupaten Indramayu
+23;P3212101202;KEDOKAN BUNDER;Jl. Raya Kedokan Bunder Kec. Kedokan Bunder;1;2;Kabupaten Indramayu
+24;P3212110201;JUNTI NYUAT;Jl. Raya Juntinyuat, Kec. Juntinyuat;;2;Kabupaten Indramayu
+25;P3212110202;PONDOH;Jl. Raya Ds. Pondoh, Kec. Juntinyuat;1;2;Kabupaten Indramayu
+26;P3212120201;SLIYEG;Jl. Raya Sliyeg, Kec. Sliyeg;1;2;Kabupaten Indramayu
+27;P3212120202;TAMBI;Ds. Tambi, Kec. Sliyeg;;2;Kabupaten Indramayu
+28;P3212130201;JATI BARANG;Jl. May. Dasuki No. 43, Kec. Jatibarang;;2;Kabupaten Indramayu
+29;P3212130202;JATISAWIT;Jl. Raya Jatisawit - Jatibarang, Kec. Jatibarang;;2;Kabupaten Indramayu
+30;P3212140201;BALONGAN;Jl. Raya Balongan, Kec. Balongan;;2;Kabupaten Indramayu
+31;P3212150201;MARGADADI;Jl. Sastra Atmaja No. 49, Kec. Indramayu;;2;Kabupaten Indramayu
+32;P3212150202;PLUMBON;Jl. Raya Jatibarang Indramayu KM.6, Kec. Indramayu;;2;Kabupaten Indramayu
+33;P3212160201;SINDANG;Ds. Rambatan Wetan, Kec. Sindang;1;2;Kabupaten Indramayu
+34;P3212160202;BABADAN;Jl. May. Dasuki Ds. Babadan, Kec. Sindang;;2;Kabupaten Indramayu
+35;P3212161201;CANTIGI;Ds. Cantigi Kulon, Kec. Cantigi;;2;Kabupaten Indramayu
+36;P3212162201;PASEKAN;Jl. Brawijaya No. 1, Ds. Pabean Kencana, Kec. Pasekan;1;2;Kabupaten Indramayu
+37;P3212170201;LOH BENER;Jl. By Pass Pantura, Kec. Lohbener;;2;Kabupaten Indramayu
+38;P3212170202;KIAJARAN WETAN;Jl. By Pass Kiajaranwetan, Kec. Lohbener;;2;Kabupaten Indramayu
+39;P3212171101;CIDEMPET;Ds. Cidempet, Kec. Arahan;;1;Kabupaten Indramayu
+40;P3212180201;LOSARANG;Jl. By Pass Losarang, Kec. Losarang;;2;Kabupaten Indramayu
+41;P3212180202;CEMARA;Jl. Raya Cemara, Kec. Losarang;;2;Kabupaten Indramayu
+42;P3212190101;KANDANG HAUR;Jl. Raya Kandanghaur, Kec. Kandang Haur;1;1;Kabupaten Indramayu
+43;P3212190202;KERTAWINANGUN;Jl. Raya Kertawinangun, Kec. Kandang Haur;;2;Kabupaten Indramayu
+44;P3212200101;BONGAS;Jl. Gebang Mampang, Kec. Bongas;1;1;Kabupaten Indramayu
+45;P3212200202;SIDAMULYA;Jl. Irigasi BK 7, Kec. Bongas;;2;Kabupaten Indramayu
+46;P3212210201;ANJATAN;Jl. Raya Anjatan Utara, Kec. Anjatan;;2;Kabupaten Indramayu
+47;P3212210202;BUGIS;Jl. Raya Bugis, Kec. Anjatan;;2;Kabupaten Indramayu
+48;P3212220101;SUKRA;Jl. Raya Sukra Wetan, Kec. Sukra;;1;Kabupaten Indramayu
+49;P3212221201;PATROL;Ds. Patrol, Kec. Patrol;;2;Kabupaten Indramayu
+1;P3213010201;SARANGPANJANG;Jl. Raya Sagalaherang, Kec. Sagalaherang;;2;Kabupaten Subang
+2;P3213010202;SAGALA HERANG;Jl. Alun - alun Timur No. 1, Kec. Sagalaherang;1;2;Kabupaten Subang
+3;P3213020101;JALAN CAGAK;Ds. Jalan Cagak, Kec. Jalan Cagak;1;1;Kabupaten Subang
+4;P3213020202;PALASARI;Ds. Palasari, Kec. Jalan Cagak;;2;Kabupaten Subang
+5;P3213020203;KASOMALANG;Ds. Kasomalang, Kec. Jalan Cagak;1;2;Kabupaten Subang
+6;P3213030101;CISALAK;Ds. Cisalak, Kec. Cisalak;1;1;Kabupaten Subang
+7;P3213040201;TANJUNGSIANG;Jl. Raya Ds. Tanjung Siang, Kec. Tanjungsiang;;2;Kabupaten Subang
+8;P3213050201;TANJUNGWANGI;Ds. Tanjung Wangi, Kec. Cijambe;;2;Kabupaten Subang
+9;P3213050202;CIRANGKONG;Ds. Cirangkong, Kec. Cijambe;;2;Kabupaten Subang
+10;P3213050203;CIPUNAGARA;Ds. Tanjung Wangi, Kec. Cijambe;1;2;Kabupaten Subang
+11;P3213060101;CIBOGO;Kel Cibogo, Kec. Cibogo;1;1;Kabupaten Subang
+12;P3213070201;SUKARAHAYU;Jl. Raya Cinangsi No. 53 Kel. Karanganyar, Kec. Subang;;2;Kabupaten Subang
+13;P3213080201;KALIJATI;Jl. Kalimantan No. 39, Kec. Kalijati;1;2;Kabupaten Subang
+14;P3213080202;RAWALELE;Jl. Wangunreja No. 39, Kec. Kalijati;;2;Kabupaten Subang
+15;P3213090101;CIPEUNDEUY;Ds. Cipeundeuy, Kec. Cipeundeuy;1;1;Kabupaten Subang
+16;P3213100101;PABUARAN;Jl. Pasar Senen No. 30, Kec. Pabuaran;1;1;Kabupaten Subang
+17;P3213100202;PRINGKASAP;Jl. Sukawera No. 86 Ds. Pringkasap, Kec. Pabuaran;;2;Kabupaten Subang
+18;P3213110201;PATOKBEUSI;Jl. Raya Ciberes, Kec. Patokbeusi;1;2;Kabupaten Subang
+19;P3213110102;RANCABANGO;Ds. Rancabango, Kec. Patokbeusi;;1;Kabupaten Subang
+20;P3213120201;PURWADADI;Ds. Pasirbungur No. 1, Kec. Purwadadi;1;2;Kabupaten Subang
+21;P3213130201;CIKAUM;Jl. Raya Tarum Timur, Kec. Cikaum;;2;Kabupaten Subang
+22;P3213140101;PAGADEN;Jl. Raya Compreng Kel. Pagaden, Kec. Pagaden;1;1;Kabupaten Subang
+23;P3213140202;PEGADEN BARAT;Ds. Munjul, Kec. Pegaden;;2;Kabupaten Subang
+24;P3213140203;GUNUNGSEMBUNG;Ds. Jatireja, Kec. Pagaden;;2;Kabupaten Subang
+25;P3213160201;COMPRENG;Jl. Raya Compreng, Kec. Compreng;;2;Kabupaten Subang
+26;P3213160202;JATIREJA;Ds. Jatireja, Kec. Compreng;;2;Kabupaten Subang
+27;P3213170101;BINONG;Jl. Tarum Timur No. 17, Kec. Binong;1;1;Kabupaten Subang
+28;P3213170202;TAMBAK DAHAN;Ds. Tambakdahan, Kec. Binong;1;2;Kabupaten Subang
+29;P3213170203;CIKALAPA;Jl. Natasukarya Kel Binong, Kec. Binong;;2;Kabupaten Subang
+30;P3213171201;MARIUK;Warung Cendol, Kec. Tambakdahan;;2;Kabupaten Subang
+31;P3213180101;MANDALA WANGI;Jl. Raya Ciasem, Kec. Ciasem;;1;Kabupaten Subang
+32;P3213180202;CIASEM;Jl. A. Yani No. Ciasem No.63 Kel Ciasem, Kec. Ciasem;1;2;Kabupaten Subang
+33;P3213180203;JATIBARU;Ds. Jati Baru, Kec. Ciasem;;2;Kabupaten Subang
+34;P3213190101;PAMANUKAN;Jl. Jon Martasasmita No. 30, Kec. Pamanukan;1;1;Kabupaten Subang
+35;P3213190202;BATANGSARI;Jl. Pamanukan Km 8.41, Kec. Pamanukan;;2;Kabupaten Subang
+36;P3213200101;PUSAKA NAGARA;Jl. Raya Pusaka - Cirebon, Kec. Pusaka Nagara;1;1;Kabupaten Subang
+37;P3213200202;KARANGANYAR;"Jl;. Raya Cirebon, Kec. Pusaka Nagara";1;2;Kabupaten Subang
+38;P3213210201;LEGONKULON;Ds. Legonkulon, Kec. Legonkulon;;2;Kabupaten Subang
+39;P3213220201;BLANAKAN;Ds. Blanakan, Kec. Blanakan;1;2;Kabupaten Subang
+40;P3213220202;CILAMAYA GIRANG;Ds. Cilamaya Girang, Kec. Blanakan;;2;Kabupaten Subang
+1;P3214010201;JATILUHUR;Jl. Ir H. Juanda No. 73, Kec. Jatiluhur;1;2;Kaupaten Purwakarta
+2;P3214010202;KONCARA;Jl. Ibrahim Singadilaga No. 53, Kec. Jatiluhur;;2;Kaupaten Purwakarta
+3;P3214011201;SUKASARI;Jl. Raya Kertamanah, Kec. Sukasari;;2;Kaupaten Purwakarta
+4;P3214020201;MAN2S;Jl. Raya Palumbon, Kec. Man2s;1;2;Kaupaten Purwakarta
+5;P3214030201;TEGALWARU;Ds. Batutumpang, Kec. Tegalwaru;1;2;Kaupaten Purwakarta
+6;P3214040201;PLERED;Jl. Gang Sakola Pasar Plered, Kec. Plered;1;2;Kaupaten Purwakarta
+7;P3214050201;SUKATANI;Jl. Raya Sukatani Km 12, Kec. Sukatani;1;2;Kaupaten Purwakarta
+8;P3214060201;DARANGDAN;Jl. Raya Darangdan, Kec. Darangdan;;2;Kaupaten Purwakarta
+9;P3214070201;BOJONG;Jl. Raya Bojong Km 31, Kec. Bojong;;2;Kaupaten Purwakarta
+10;P3214080101;WANAYASA;Jl. Raya Bakti No. 10, Kec. Wanayasa;1;1;Kaupaten Purwakarta
+11;P3214081201;KIARAPEDES;Jl. Raya Kiarapedes Km 24, Kec. Kiarapedes;1;2;Kaupaten Purwakarta
+12;P3214090201;PASAWAHAN;Jl. Raya Pasar Pasawahan, Kec. Pasawahan;1;2;Kaupaten Purwakarta
+13;P3214091201;PONDOKSALAM;Jl. Raya Terusan Kapten Halim, Kec. Pondok Salam;;2;Kaupaten Purwakarta
+14;P3214100201;MUNJUL JAYA;Jl. Ipik Gandamanah No. 164, Kec. Purwakarta;1;2;Kaupaten Purwakarta
+15;P3214100202;PURWAKARTA;Jl. Kapten Halim No. 1, Kec. Purwakarta;;2;Kaupaten Purwakarta
+16;P3214101201;MULYAMEKAR;Jl. 1eteran, Kec. Babakancikao;;2;Kaupaten Purwakarta
+17;P3214101202;MARACANG;Jl. Raya Industri No. 289, Kec. Babakancikao;;2;Kaupaten Purwakarta
+18;P3214110201;CAMPAKA;Jl. Raya Campaka No. 01, Kec. Campaka;1;2;Kaupaten Purwakarta
+19;P3214111101;CIBATU;Jl. Raya Cibatu Km 15, Kec. Cibatu;1;1;Kaupaten Purwakarta
+20;P3214112201;BUNGURSARI;Jl. Raya Bungursari No. 124, Kec. Bungursari;;2;Kaupaten Purwakarta
+1;P3215010201;PANGKALAN;Ds. Ciptasari, Kec. Pangkalan;;2;Kabupaten Karawang
+2;P3215011101;LOJI;Ds. Cintalaksana, Kec. Tegalwaru;1;1;Kabupaten Karawang
+3;P3215020201;CIAMPEL;Ds. Mulyasari, Kec. Ciampel;;2;Kabupaten Karawang
+4;P3215031201;TELUK JAMBE;Ds. Pinayungan, Kec. Telukjambe Timur;;2;Kabupaten Karawang
+5;P3215031202;WADAS;Ds. Wadas, Kec. Teluk Jambe Timur;;2;Kabupaten Karawang
+6;P3215032102;WANAKERTA;Ds. Wanakerta, Kec. Teluk Jambe Barat;1;1;Kabupaten Karawang
+7;P3215040101;ANGGADITA/KLARI;Ds. Duren, Kec. Klari;1;1;Kabupaten Karawang
+8;P3215040202;CURUG;Ds. Curug, Kec. Klari;;2;Kabupaten Karawang
+9;P3215040203;ANGGADITA;Ds. Anggadita, Kec. Klari;;2;Kabupaten Karawang
+10;P3215050101;CIKAMPEK;Ds. Dawuan Timur, Kec. Cikampek;1;1;Kabupaten Karawang
+11;P3215051201;PURWASARI;Ds. Purwasari, Kec. Purwasari;;2;Kabupaten Karawang
+12;P3215060201;TIRTA MULYA;Ds. Parakan, Kec. Tirta Mulya;;2;Kabupaten Karawang
+13;P3215070101;JATI SARI;Ds. Jatisari, Kec. Jatisari;1;1;Kabupaten Karawang
+14;P3215070202;PACING;Ds. Pacing, Kec. Jatisari;1;2;Kabupaten Karawang
+15;P3215071201;CICINDE;Desa Cicinde Selatan Kec. Banyusari;;2;Kabupaten Karawang
+16;P3215071202;GEMPOL;Ds. Gempol, Kec. Banyusari;;2;Kabupaten Karawang
+17;P3215072201;KOTA BARU;Ds. Kota Baru, Kec. Kotabaru;1;2;Kabupaten Karawang
+18;P3215072202;JOMIN;Ds. Jomin Timur, Kec. Kotabaru;;2;Kabupaten Karawang
+19;P3215072203;CIKAMPEK UTARA;Ds. Cikampek Utara, Kec. Kotabaru;;2;Kabupaten Karawang
+20;P3215081101;CILAMAYA;Ds. Cilamaya, Kec. Cilamaya Wetan;1;1;Kabupaten Karawang
+21;P3215081202;SUKATANI;Ds. Sukatani, Kec. Cilamaya Wetan;;2;Kabupaten Karawang
+22;P3215082201;PASIR RUKEM;Ds. Pasirukem, Kec. Cilamaya Kulon;;2;Kabupaten Karawang
+23;P3215082202;BAYUR LOR;Ds. Bayur Lor, Kec. Cilamaya Kulon;;2;Kabupaten Karawang
+24;P3215090201;LEMAHABANG;Ds. Lemah Abang, Kec. Lemah Abang;;2;Kabupaten Karawang
+25;P3215100201;TALAGASARI;Ds. Talagasari, Kec. Talagasari;1;2;Kabupaten Karawang
+26;P3215111201;MAJALAYA;Ds. Majalaya, Kec. Majalaya;;2;Kabupaten Karawang
+27;P3215112201;PLAWAD;Ds. Palawad, Kec. Karawang Timur;;2;Kabupaten Karawang
+28;P3215112202;ADIARSA;Ds. Adiarsa Timur, Kec. Karawang Timur;;2;Kabupaten Karawang
+29;P3215113201;KARAWANG KULON;Ds. Karang Kulon, Kec. Karawang Barat;;2;Kabupaten Karawang
+30;P3215113202;KARAWANG KOTA;Ds. Karang Pawitan, Kec. Karawang Barat;;2;Kabupaten Karawang
+31;P3215113203;TUNGGAK JATI;Ds. Tunggak Jati, Kec. Karawang Barat;1;2;Kabupaten Karawang
+32;P3215113204;NAGASARI;Ds. Nagasari, Kec. Karawang Barat;;2;Kabupaten Karawang
+33;P3215113205;TANJUNGPURA;Ds. Tanjungpura , Kec. Karawang Barat;;2;Kabupaten Karawang
+34;P3215120201;RAWAMERTA;Ds. Sukamerta, Kec. Rawamerta;1;2;Kabupaten Karawang
+35;P3215120202;BALONGSARI;Ds. Balongsari, Kec. Rawamerta;;2;Kabupaten Karawang
+36;P3215130101;TEMPURAN;Ds. Pancakarya, Kec. Tempuran;1;1;Kabupaten Karawang
+37;P3215130202;LEMAH DUHUR;Ds. Lemah Duhur, Kec. Tempuran;;2;Kabupaten Karawang
+38;P3215140101;KUTAWALUYA;Ds. Sampalan, Kec. Kutawaluya;1;1;Kabupaten Karawang
+39;P3215140202;KUTAMUKTI;Ds. Kutamukti, Kec. Kutawaluya;;2;Kabupaten Karawang
+40;P3215150101;RENGASDENGKLOK;Ds. Rengasdengklok Selatan, Kec. Rengasdengklok;1;1;Kabupaten Karawang
+41;P3215150203;KALANGSARI;Ds. Kalangsari, Kec. Rengasdengklok;;2;Kabupaten Karawang
+42;P3215151201;JAYAKERTA;Ds. Kemiri, Kec. Jayakerta;1;2;Kabupaten Karawang
+43;P3215151102;MEDANGASEM;Ds. Medangasem, Kec. Jayakerta;;1;Kabupaten Karawang
+44;P3215160101;PEDES;Ds. Payungsari, Kec. Pedes;1;1;Kabupaten Karawang
+45;P3215160202;SUNGAI BUNTU;Ds. Sungai Buntu, Kec. Pedes;;2;Kabupaten Karawang
+46;P3215161201;KERTAMUKTI;Ds. Kertamukti, Kec. Cilebar;;2;Kabupaten Karawang
+47;P3215170201;CIBUAYA;Ds. Cibuaya, Kec. Cibuaya;1;2;Kabupaten Karawang
+48;P3215180101;TIRTAJAYA;Ds. Saba Jaya, Kec. Tirtajaya;1;1;Kabupaten Karawang
+49;P3215190101;BATUJAYA;Ds. Batujaya, Kec. Batujaya;;1;Kabupaten Karawang
+50;P3215200201;PAKISJAYA;Ds. Tanjungbungin, Kec. Pakisjaya;1;2;Kabupaten Karawang
+1;P3216010201;SETU  1;Jl. Raya Setu, Kec. Setu;;2;Kabupaten Bekasi
+2;P3216010202;SETU   2;Ds. Tamansari, Kec. Setu;;2;Kabupaten Bekasi
+3;P3216021201;SIRNAJAYA;Ds. Sirnajaya, Kec. Serang Baru;1;2;Kabupaten Bekasi
+4;P3216022201;SUKADAMI;Ds. Sukadami, Kec. Cikarang Pusat;;2;Kabupaten Bekasi
+5;P3216022202;CIBATU;Jln. HM Ogo Cibatu 06/03 Kec. Cikarang Pusat;;2;Kabupaten Bekasi
+6;P3216023201;SUKAMAHI;Ds. Sukamahi, Kec. Cikarang Selatan;;2;Kabupaten Bekasi
+7;P3216030101;CIBARUSAH;Ds. Cibarusah Kota, Kec. Cibarusah;1;1;Kabupaten Bekasi
+8;P3216031201;KARANG MULYA;Ds. Karang Mulya, Kec. Bojongmangu;1;2;Kabupaten Bekasi
+9;P3216041201;LEMAH ABANG;Kel Cikarang Timur, Kec. Cikarang Timur;;2;Kabupaten Bekasi
+10;P3216041202;CIPAYUNG;Jln. Raya Cipayung No. 1 01/03 Cipayung Kec. Cikarang Timur;;2;Kabupaten Bekasi
+11;P3216050101;KEDUNG WARINGIN;Ds. Kedung Waringin, Kec. Kedung Waringin;1;1;Kabupaten Bekasi
+12;P3216050202;KARANG SAMBUNG;Ds. Karang Sambung, Kec. Kedung Waringin;;2;Kabupaten Bekasi
+13;P3216062201;KARANG BAHAGIA;Ds. Karang Bahagia, Kec. Karang Bahagia;;2;Kabupaten Bekasi
+14;P3216061101;CIKARANG;Kel Cikarang Utara, Kec. Cikarang Utara;1;1;Kabupaten Bekasi
+15;P3216061102;MEKAR MUKTI;Kel. Cikarang UtaraKec. Cikarang Utara;1;1;Kabupaten Bekasi
+16;P3216070201;WANASARI;Jl. Pd. Tanah Mas, Kec. Cibitung;;2;Kabupaten Bekasi
+17;P3216070202;SUKAJAYA;Ds. Sukajaya, Kec. Cibitung;;2;Kabupaten Bekasi
+18;P3216071201;DANAU INDAH;Ds. Mekarwangi, Kec. Cikarang Barat;;2;Kabupaten Bekasi
+19;P3216071202;TELAGA MURNI;Ds. Telaga Murni, Kec. Cikarang Barat;;2;Kabupaten Bekasi
+20;P3216081201;TAMBUN;Ds. Tambun, Kec. Tambun Selatan;;2;Kabupaten Bekasi
+21;P3216081202;MEKARSARI;Ds. Mekarsari, Kec. Tambun Selatan;;2;Kabupaten Bekasi
+22;P3216081203;JATIMULYA;Ds. Jatimulya, Kec. Tambun Selatan;;2;Kabupaten Bekasi
+23;P3216081204;MANGUNJAYA;Ds. Mangunjaya, Kec. Tambun Selatan;;2;Kabupaten Bekasi
+24;P3216081205;SUMBER JAYA;Ds. Sumber Jaya, Kec. Tambun Selatan;;2;Kabupaten Bekasi
+25;P3216081206;LEMBANG SARI;Jln. Raya Kota Legenda 01/05 Desa Lembang Sari Kec. Tambun Selatan;;2;Kabupaten Bekasi
+26;P3216081207;SEETIA MEKAR;Jln. Anggrek VI Blok J No.23 04/19 Desa Setia Mekar Kec. Tambun Selatan;;2;Kabupaten Bekasi
+27;P3216082101;SRI AMUR;Ds. Sri Amur, Kec. Tambun Utara;1;1;Kabupaten Bekasi
+28;P3216082202;KARANG SATRIA;Jln. Raya Rawa Kalong 05/06 Desa Karang Satria Kec Tambun Utara;;2;Kabupaten Bekasi
+29;P3216090101;BABELAN 1;Kel Babelan, Kec. Babelan;1;1;Kabupaten Bekasi
+30;P3216090202;BABELAN 2;Ds. Bahagia, Kec. Babelan;;2;Kabupaten Bekasi
+31;P3216100101;TARUMA JAYA;Kel. Tarumajaya, Kec. Tarumajaya;1;1;Kabupaten Bekasi
+32;P3216110201;TAMBELANG;Ds. Sukarapih, Kec. Tambelang;1;2;Kabupaten Bekasi
+33;P3216111201;SUKA TENANG;Ds. Suka Tenang, Kec. Sukawangi;;2;Kabupaten Bekasi
+34;P3216120101;SUKATANI;Kp. Pertanian Ds. Sukatani, Kec. Sukatani;1;1;Kabupaten Bekasi
+35;P3216121201;SUKAINDAH;Ds. Suka Indah, Kec. Sukakarya;;2;Kabupaten Bekasi
+36;P3216130201;PEBAYURAN;Ds. Kertasari, Kec. Pebayuran;;2;Kabupaten Bekasi
+37;P3216130202;KARANGHARJA;Ds. Karang Harja, Kec. Pebayuran;;2;Kabupaten Bekasi
+38;P3216140101;CABANG BUNGIN;Ds. Lengah Jaya, Kec. Cabang Bungin;1;1;Kabupaten Bekasi
+39;P3216150201;MUARA GEMBONG;Kp. Bombang Rt 08/02, Kec. Muara Gembong;;2;Kabupaten Bekasi
+1;P3217010201;RONGGA;Jl. Raya Ds. Cibedug Rongga No. 13, Kec. Rongga;;2;Kabupaten Bandung Barat
+2;P3217020101;GUNUNGHALU;Jl. Raya Gunung Halu No. 49, Kec. Gunung Halu;;1;Kabupaten Bandung Barat
+3;P3217030201;SINDANGKERTA;Jl. Sindangkerta Ds Cintakarya, Kec. Sindangkerta;;2;Kabupaten Bandung Barat
+4;P3217030202;CICANGKANGGIRANG;Jl. Cicangkanggirang, Kec. Sindangkerta;;2;Kabupaten Bandung Barat
+5;P3217040101;CILILIN;Jl. Raya Radio Dalam No. 1, Kec. Cililin;;1;Kabupaten Bandung Barat
+6;P3217040202;MUKAPAYUNG;Jl. Cikoneng Ds. Mukapayung, Kec. Cililin;;2;Kabupaten Bandung Barat
+7;P3217050201;CIHAMPELAS;Jl. Raya Cihampelas No. 159 Ds. Cihampelas, Kec. Cihampelas;;2;Kabupaten Bandung Barat
+8;P3217050202;PATARUMAN;Jl. Raya Cipatik Soreang No. 4 Pataruman, Kec. Cihampelas;;2;Kabupaten Bandung Barat
+9;P3217060201;CIPONGKOR;Jl. Raya PLTA Saguling No. 2 Ds. Sarinagen, Kec. Cipongkor;;2;Kabupaten Bandung Barat
+10;P3217060202;CITALEM;Jl. Raya Saguling Ds. Citalem, Kec. Cipongkor;;2;Kabupaten Bandung Barat
+11;P3217070201;BATUJAJAR;Jl. Raya Barat No. 383-385, Kec. Batujajar;;2;Kabupaten Bandung Barat
+12;P3217080101;RAJAMANDALA;Jl. Raya Cipatat No. 1, Kec. Cipatat;;1;Kabupaten Bandung Barat
+13;P3217080202;CIPATAT;Jl. Raya Cipatat No. 363, Kec. Cipatat;;2;Kabupaten Bandung Barat
+14;P3217080203;SUMURBANDUNG;Jl. Raya Purwakarta, Kec. Cipatat;;2;Kabupaten Bandung Barat
+15;P3217090201;PADALARANG;Jl. Raya Padalarang No.542, Kec. Padalarang;;2;Kabupaten Bandung Barat
+16;P3217090202;TAGOGAPU;Jl. Raya Purwakarta Ds. Tagopagu Rt 01/04, Kec. Padalarang;;2;Kabupaten Bandung Barat
+17;P3217090203;JAYAMEKAR;Jl. GA Manulang Rancabali, Kec. Padalarang;;2;Kabupaten Bandung Barat
+18;P3217100201;NGAMPRAH;Jl. Raya Ngamprah No, 9 Ds. Sukatani, Kec. Ngamprah;;2;Kabupaten Bandung Barat
+19;P3217100202;CIMAREME;Jl. Cimareme Indah No. 1, Kec. Ngamprah;;2;Kabupaten Bandung Barat
+20;P3217110201;PARONGPONG;Jl. Raya Cihanjung Ds. Cihanjuang Rahayu, Kec. Parongpong;;2;Kabupaten Bandung Barat
+21;P3217110202;CIWARUGA;Jl. Waruga Jaya No. 7 Ds. Parongpong, Kec. Parongpong;;2;Kabupaten Bandung Barat
+22;P3217120201;LEMBANG;Jl. Grand Hotel No. 14, Kec. Lembang;;2;Kabupaten Bandung Barat
+23;P3217120202;CIKOLE;Jl. Raya Lapang Ds. Cikole, Kec. Lembang;;2;Kabupaten Bandung Barat
+24;P3217120103;JAYAGIRI;Jl. Jayagiri No. 35, Kec. Lembang;;1;Kabupaten Bandung Barat
+25;P3217120204;CIBODAS;Jl. Raya Cibodas Gg.Ds. Cibodas Rt 02/09, Kec. Lembang;;2;Kabupaten Bandung Barat
+26;P3217130201;CISARUA;Jl. Kol. Masturi No. 19, Kec. Cisarua;;2;Kabupaten Bandung Barat
+27;P3217130202;PASIRLANGU;Jl. Pasirlangu Cisarua Ds. Pasirlangu, Kec. Cisarua;;2;Kabupaten Bandung Barat
+28;P3217140101;CIKALONGWETAN;Jl. Raya Purwakarta No. 302, Kec. Cikalongwetan;;1;Kabupaten Bandung Barat
+29;P3217140202;RENDE;Jl. Raya Rende, Kec. Cikalongwetan;;2;Kabupaten Bandung Barat
+30;P3217150201;CIPEUNDEUY;Jl. Raya Cipeundeuy No. 604, Kec. Cipeundeuy;;2;Kabupaten Bandung Barat
+31;P3217150202;CIRATA;Jl. PLTA Cirata Ds. Cirata, Kec. Cipeundeuy;;2;Kabupaten Bandung Barat
+1;P3271010101;BOGOR SELATAN;Jl. Batu Tulis No.42, Kec. Bogor selatan;;1;Kota Bogor
+2;P3271010102;CIPAKU;Jl. Raya Cipaku, Kec. Bogor selatan;;1;Kota Bogor
+3;P3271010203;LAWANG GINTUNG;Gg Skip Lawang Gintung, Kec. Bogor selatan;;2;Kota Bogor
+4;P3271010204;BONDONGAN;Jl. Pahlawan, Kec. Bogor selatan;;2;Kota Bogor
+5;P3271020101;BOGOR TIMUR;Jl. Pakuan No.6, Kec. Bogor Timur;;1;Kota Bogor
+6;P3271020202;PULO ARMYN;Jl. Raya Pajajaran, Kec. Bogor Timur;;2;Kota Bogor
+7;P3271030101;TEGAL GUNDIL;Jl. Palupuh Perumnas Bantar Jati, Kec. Bogor Utara;;1;Kota Bogor
+8;P3271030202;BOGOR UTARA;Jl. Bogor Baru, Kec. Bogor Utara;;2;Kota Bogor
+9;P3271030203;WARUNG JAMBU;Jl. Gatotkaca BTN Indraprasta, Kec. Bogor Utara;;2;Kota Bogor
+10;P3271040101;BOGOR TENGAH;Jl. Telepon No.1, Kec. Bogor Tengah;;1;Kota Bogor
+11;P3271040202;SEMPUR;Jl. Sempur Kaler, Kec. Bogor Tengah;;2;Kota Bogor
+12;P3271040203;GANG AUT;Jl. Gang Aut, Kec. Bogor Tengah;;2;Kota Bogor
+13;P3271040204;BELONG;Jl. Roda Belong, Kec. Bogor Tengah;;2;Kota Bogor
+14;P3271040205;MERDEKA;Jl. Merdeka No.45, Kec. Bogor Tengah;;2;Kota Bogor
+15;P3271050201;GANG KELOR;Jl. Gang Kelor No.6, Kec. Bogor Barat;;2;Kota Bogor
+16;P3271050102;SEMPLAK;Jl. Ring Road Lingkar Utara Yasmin, Kec. Bogor Barat;;1;Kota Bogor
+17;P3271050203;PANCASAN;Jl. Pancasan, Kec. Bogor Barat;;2;Kota Bogor
+18;P3271050204;PASIR MULYA;Jl. RE Abdullah Gunung Batu, Kec. Bogor Barat;;2;Kota Bogor
+19;P3271050205;SINDANG BARANG;Jl. Sindang Barang, Kec. Bogor Barat;;2;Kota Bogor
+20;P3271060101;TANAH SAREAL;Jl. Kesehatan No.3, Kec. Tanah Sereal;;1;Kota Bogor
+21;P3271060202;PONDOK RUMPUT;Jl. Gg Biawas No.11 Kebon Pedes, Kec. Tanah Sereal;;2;Kota Bogor
+22;P3271060203;KAYU MANIS;Jl. Kayu Manis, Kec. Tanah Sereal;;2;Kota Bogor
+23;P3271060104;KEDUNG BADAK;Jl. Penataran Cimanggu Permai, Kec. Tanah Sereal;;1;Kota Bogor
+24;P3271060205;MEKARWANGI;Perum Bukit Cimanggu 1illa, Kec. Tanah Sereal;;2;Kota Bogor
+1;P3272010201;BAROS;Jl. Baros Km  5, Kec. Baros;;2;Kota Sukabumi
+2;P3272011201;LEMBURSITU;Jl. Pelabuhan 2 Km 6, Kec. Lembur Situ;;2;Kota Sukabumi
+3;P3272011202;CIKUNDUL;Jl. Merdeka No. 70, Kec. Lembur Situ;;2;Kota Sukabumi
+4;P3272012201;CIBEUREM HILIR;Jl. Ciandam, Kec. Cibeureum;;2;Kota Sukabumi
+5;P3272012202;LIMUS NUNGGAL;Jl. Limus Nunggal No. 103, Kec. Cibeureum;;2;Kota Sukabumi
+6;P3272020201;TIPAR;Jl. Pengadaian No. 1, Kec. Citamiang;;2;Kota Sukabumi
+7;P3272020202;GEDONG PANJANG;Jl. RH Didi Sukardi No. 614, Kec. Citamiang;;2;Kota Sukabumi
+8;P3272020203;NANGGELENG;Jl. Pelda Suryanta No. 43, Kec. Citamiang;;2;Kota Sukabumi
+9;P3272030201;BENTENG;Jl. Benteng Kidul No. 64, Kec. Warudoyong;;2;Kota Sukabumi
+10;P3272030202;PABUARAN;Jl. Pabuaran No. 93, Kec. Warudoyong;;2;Kota Sukabumi
+11;P3272030203;SUKAKARYA;Jl. Tegal Wangi No. 66, Kec. Warudoyong;;2;Kota Sukabumi
+12;P3272040201;CIPELANG;Jl. Jenderal Sudirman No. 21, Kec. Gunung Puyuh;;2;Kota Sukabumi
+13;P3272040202;KARANG TENGAH;Jl. Tanjungsari, Kec. Gunung Puyuh;;2;Kota Sukabumi
+14;P3272050201;SELABATU;Jl. Kenari No. 3Kec. Cikole;;2;Kota Sukabumi
+15;P3272050202;SUKABUMI;Jl. RA Kosasih No. 17, Kec. Cikole;;2;Kota Sukabumi
+1;P3273010201;UPT CIBUNTU;Jl. Syahbandar 1 Kel Cari, Kec. Bandungkulon;;2;Kota Bandung
+2;P3273010202;CIJERAH;Jl. Mekar Hegar No. 1, Kec. Bandung Kulon;;2;Kota Bandung
+3;P3273010203;CIGONDEWAH;Jl. Cigondewah Kaler No. 17, Kec. Bandung Kulon;;2;Kota Bandung
+4;P3273010204;UPT CARINGIN;Jl. Caringin Babakan Ciparay No. 103, Kec. Bandung Kulon;;2;Kota Bandung
+5;P3273020201;SUKAHAJI;Jl. H. Zakaria Blk No. 24, Kec. Babakan Ciparay;;2;Kota Bandung
+6;P3273020202;CIBOLERANG;Jl. Cibolerang No. 187, Kec. Babakan Ciparay;;2;Kota Bandung
+7;P3273030201;SUKA PARKIR;Jl. Pagarsih Gg.Bp.Oyon, Kec. Bojong Loa Kaler;;2;Kota Bandung
+8;P3273030202;UPT CETARIP;Jl. Kopo Gg Citarip No.11, Kec. Bojong Loa Kaler;;2;Kota Bandung
+9;P3273040201;UPT KOPO;Jl. Kopo No. 369, Kec. Bojong Loa Kidul;;2;Kota Bandung
+10;P3273050201;UPT PAGARSIH;Jl. Pagarsih 95, Kec. Astana Anyar;;2;Kota Bandung
+11;P3273050202;LIO GENTENG;Jl. Lio Genteng, Kec. Astana Anyar;;2;Kota Bandung
+12;P3273050203;PELINDUNG HEWAN;Jl. Palindungan, Kec. Astana Anyar;;2;Kota Bandung
+13;P3273050204;ASTANA ANYAR;Jl. Astana Anyar, Kec. Astana Anyar;;2;Kota Bandung
+14;P3273060201;UPT PASUNDAN;Jl. Pasundan 99, Kec. Regol;;2;Kota Bandung
+15;P3273060202;MOCH. RAMDAN;Jl. Moch. Ramdan 108, Kec. Regol;;2;Kota Bandung
+16;P3273060203;PASIR LUYU;Jl. Sukaati Bypass No. 1, Kec. Regol;;2;Kota Bandung
+17;P3273070201;UPT TALAGA BODAS;Jl. Talaga Bodas 35, Kec. Lengkong;;2;Kota Bandung
+18;P3273070202;SURYALAYA;Jl. Suryalaya V2 No. 1, Kec. Lengkong;;2;Kota Bandung
+19;P3273070203;CIJAGRA LAMA;Jl. Buah Batu No. 375, Kec. Lengkong;;2;Kota Bandung
+20;P3273070204;CIJAGRA BARU;Jl. Cijagra 1/28, Kec. Lengkong;;2;Kota Bandung
+21;P3273080201;PASAWAHAN;Jl. Naradireja, Kec. Bandung Kidul;;2;Kota Bandung
+22;P3273080202;MENGGER;Jl. Mengger No. 32, Kec. Bandung Kidul;;2;Kota Bandung
+23;P3273080203;UPT KUJANG SARI;Jl. Ters Buah Batu, Kec. Bandung Kidul;;2;Kota Bandung
+24;P3273090201;UPT MARGAHAYU RAYA;Jl. Pluto Raya No. 54, Kec. Buah Batu;;2;Kota Bandung
+25;P3273090202;SEKEJATI;Jl. Yupiter B2, Kec. Buah Batu;;2;Kota Bandung
+26;P3273100201;DERWATI;Jl. Derwati No. 38, Kec. Rancasari;;2;Kota Bandung
+27;P3273100202;UPT CIPAMOKOLAN;Jl. Kali Cipamokolan, Kec. Rancasari;;2;Kota Bandung
+28;P3273100203;UPT RIUNG BANDUNG;Jl. Riung Puma XI, Kec. Rancasari;;2;Kota Bandung
+29;P3273101201;CEMPAKA ARUM;Jl. Usman bin Affan Belakang Polda Kec. Gedebage;;2;Kota Bandung
+30;P3273110201;CILENGKRANG;Jl. Cilengkrang 1 No. 130, Kec. Cibiru;;2;Kota Bandung
+31;P3273110202;UPT CIBIRU;Jl. AH Nasution No. 47A, Kec. Cibiru;;2;Kota Bandung
+32;P3273110203;CIPADUNG;Jl. Cigagak, Kec. Cibiru;;2;Kota Bandung
+33;P3273110204;PANYILEUKAN;Jl. Raya Panyileukan Blok C No. 2, Kec. Cibiru;;2;Kota Bandung
+34;P3273111201;UPT PANGHEGAR;Jl. Teratai Mekar, Kec. Panyileukan;;2;Kota Bandung
+35;P3273120201;UPT CINAMBO;Jl. Gede Bage No. 19a, Kec. Ujung Berung;;2;Kota Bandung
+36;P3273120202;UPT UJUNG BERUNG IND;Komplek Ujung Berung Indah, Kec. Ujung Berung;;2;Kota Bandung
+37;P3273130201;UPT ARCAMANIK;Jl. Olah Raga No. 7, Kec. Arcamanik;;2;Kota Bandung
+38;P3273130202;UPT SINDANG JAYA;Jl. Arcamanik No. 30, Kec. Arcamanik;;2;Kota Bandung
+39;P3273130203;RUSUNAWA;Cingised RT 2 RW 6 Kel. Cisaranten Kulon Kec. Arcamanik;;2;Kota Bandung
+40;P3273141201;UPT GRIYA ANTAPANI;Jl. Plered No. 2, Kec. Antapani;;2;Kota Bandung
+41;P3273141202;ANTAPANI;Jl. Majalaya 2, Kec. Antapani;;2;Kota Bandung
+42;P3273141203;JAJAWAY;Jl. Komplek Pratista V3, Kec. Antapani;;2;Kota Bandung
+43;P3273142201;MANDALA MEKAR;Jl. Mandala Jati V2 No. 123, Kec. Mandalajati;;2;Kota Bandung
+44;P3273142202;PAMULANG;Jl. Raya Cikadut, Kec. Mandalajati;;2;Kota Bandung
+45;P3273142203;GIRIMANDE;JL. Cikadut, Kec. Mandalajati;;2;Kota Bandung
+46;P3273150201;UPT BABAKANSARI;Jl. Babakansari No. 183 , Kec. Kiaracondong;;2;Kota Bandung
+47;P3273150202;BABAKAN SURABAYA;Jl. Atlas, Kec. Kiaracondong;;2;Kota Bandung
+48;P3273160201;AHMAD YANI;Jl. Cianjur No. 34, Kec. Batununggal;;2;Kota Bandung
+49;P3273160202;GUMURUH;Jl. Rancah Goong 11, Kec. Batununggal;;2;Kota Bandung
+50;P3273160203;UPT IBRAHIM ADJIE;Jl. Ibrahim Aji 88. Kec. Batununggal;;2;Kota Bandung
+51;P3273170201;UPT TAMBLONG;Jl. Tamblong 66, Kec. Sumur Bandung;;2;Kota Bandung
+52;P3273170202;BALAI KOTA;Jl. Wastukancana No. 2, Kec. Sumur Bandung;;2;Kota Bandung
+53;P3273180201;BABATAN;Jl. Babatan, Kec. Andir;;2;Kota Bandung
+54;P3273180202;UPT GARUDA;Jl. Dadali No. 81, Kec. Andir;;2;Kota Bandung
+55;P3273190201;UPT PASIR KALIKI;Jl. Pasir Kalilki No. 188, Kec. Cicendo;;2;Kota Bandung
+56;P3273200201;UPT SALAM;Jl. Salam, Kec. Bandung Wetan;;2;Kota Bandung
+57;P3273200202;TAMAN SARI;Jl. Kebon Bibit Utara 2, Kec. Bandung Wetan;;2;Kota Bandung
+58;P3273210201;UPT PADASUKA;Jl. Padasuka No. 3, Kec. Cibeunying Kidul;;2;Kota Bandung
+59;P3273210202;PASIRLAYUNG;Jl. Padasuka No. 146, Kec. Cibeunying Kidul;;2;Kota Bandung
+60;P3273210203;JATIHANDAP;Jl. Jatihandap No. 6, Kec. Cibeunying Kidul;;2;Kota Bandung
+61;P3273220201;CIKUTRA LAMA;Jl. Cikutra Barat No. 118, Kec. Cibeunying Kaler;;2;Kota Bandung
+62;P3273220202;UPT NEGLASARI;Jl. Cikutra Timur, Kec. Cibeunying Kaler;;2;Kota Bandung
+63;P3273230201;DAGO;Jl. Ir.H. Juanda No.360, Kec. Coblong;;2;Kota Bandung
+64;P3273230202;UPT PUTER;Jl. Puter No. 3, Kec. Coblong;;2;Kota Bandung
+65;P3273230203;SEKELOA;Jl. TB Ismail Bawah No. 4, Kec. Coblong;;2;Kota Bandung
+66;P3273240201;SUKA WARNA;Jl. Cibogo No. 76, Kec. Sukajadi;;2;Kota Bandung
+67;P3273240202;UPT SUKA JADI;Jl. Sukagalih, Kec. Sukajadi;;2;Kota Bandung
+68;P3273240203;KARANG SETRA;Jl. Ir Sutami No. 40, Kec. Sukajadi;;2;Kota Bandung
+69;P3273250201;LEDENG;Jl. Sersan Bajuri No. 2, Kec. Sukasari;;2;Kota Bandung
+70;P3273250202;UPT SUKA RASA;Jl. Geger Kalong Hilir No. 157, Kec. Sukasari;;2;Kota Bandung
+71;P3273250203;SARIJADI;Jl. Sari Asih No. 76, Kec. Sukasari;;2;Kota Bandung
+72;P3273260201;CIPAKU;Jl. Cipaku Indah IV, Kec. Cidadap;;2;Kota Bandung
+73;P3273260202;UPT CIUMBULEUIT;Jl. Bukit Resik, Kec. Cidadap;;2;Kota Bandung
+1;P3274010201;KALITANJUNG;Jl. Kalitanjung No. 20 Kel. Harjamukti, Kec. Harjamukti;;2;Kota Cirebon
+2;P3274010202;LARANGAN;Jl. Gunung Ceremai Raya No. 31 Kel. Kecapi, Kec. Harjamukti;;2;Kota Cirebon
+3;P3274010203;PERUMNAS UTARA;Jl. Elang Raya No. 01 Kel Larangan, Kec. Harjamukti;;2;Kota Cirebon
+4;P3274010204;SITOPENG;Jl. Pramuka No. 1 Kel. Argasunya, Kec. Harjamukti;;2;Kota Cirebon
+5;P3274010205;KALIJAGA PERMAI;Jl. Mangga Raya 1 No. 2 Kel. Kalijaga, Kec. Harjamukti;;2;Kota Cirebon
+6;P3274020201;KESUNENAN;Jl. Kesunean No. 41 Kel. Kesepuhan, Kec. Lemahwungkuk;;2;Kota Cirebon
+7;P3274020202;PEGAMBIRAN;Jl. Gambir Baru No. 04 Kel. Pegambiran, Kec. Lemahwungkuk;;2;Kota Cirebon
+8;P3274020203;PESISIR;Jl. Kapt. Samadikun No. 152 Belakang Aspol, Kec. Lemahwungkuk;;2;Kota Cirebon
+9;P3274020204;CANGKOL;Jl. Yos Sudarso Gg. Borsumei No. 9, Kec. Lemahwungkuk;;2;Kota Cirebon
+10;P3274030201;JAGASATRU;Jl. Kesambi Dalam No. 6, Kec. Pekalipan;;2;Kota Cirebon
+11;P3274030202;ASTANAGARIB;Jl. Astanagarib No. 1 A, Kec. Pekalipan;;2;Kota Cirebon
+12;P3274030203;PEKALANGAN;Jl. Pekalangan Gg. Madrass No. 40, Kec. Pekalipan;;2;Kota Cirebon
+13;P3274030204;PULASAREN;Jl. Pekawatan Kel. Pulasaren Kec. Pekalipan;;2;Kota Cirebon
+14;P3274040201;KESAMBI;Jl. Aria Kemuning No. 90, Kec. Kesambi;;2;Kota Cirebon
+15;P3274040202;GUNUNG SARI;Jl. Tentara Pelajar No. 75, Kec. Kesambi;;2;Kota Cirebon
+16;P3274040203;SUNYARAGI;Jl. E1akuasi No. 01, Kec. Kesambi;;2;Kota Cirebon
+17;P3274040204;MAJASEM;Jl. Perjuangan Kel. Karyamulya, Kec. Kesambi;;2;Kota Cirebon
+18;P3274040205;DRAJAT;Jl. Lapang Blok 1 no. 9, Kec. Kesambi;;2;Kota Cirebon
+19;P3274050201;KEJAKSAN;Jl. Siliwangi Gg. Cempaka No. 6, Kec. Kejaksan;;2;Kota Cirebon
+20;P3274050202;JALAN KEMBANG;Jl. Kembang No. 28, Kec. Kejaksan;;2;Kota Cirebon
+21;P3274050203;NELAYAN;Jl. Kapt. Samadikun Gg Sinar harapan No 28, Kec. Kejaksan;;2;Kota Cirebon
+22;P3274050204;PAMITRAN;Jl. KS Tubun No. 25 , Kec. Kejaksan;;2;Kota Cirebon
+1;P3275010101;PONDOK GEDE;Jl. Raya Jatiwaringin, Kec. Pondok Gede;;1;Kota Bekasi
+2;P3275010202;JATIBENING;Jl. Raya pondok Cikunir Indah, Kec. Pondok Gede;;2;Kota Bekasi
+3;P3275010203;JATIMAKMUR;Jl. Raya Klayan Komp. Jatiwaringin Asri, Kec. Pondok Gede;;2;Kota Bekasi
+4;P3275011101;JATISAMPURNA;Jl. Raya Pasar Kranggan, Kec. Jatisampurna;;1;Kota Bekasi
+5;P3275012201;JATIRAHAYU;Jl. Poris Raya Komp T1RI, Kec. Pondok Melati;;2;Kota Bekasi
+6;P3275012202;JATIWARNA;Jl. Pelita Utama Komp PMI Ps, Kec.api Jatiwarna, Kec. Pondok Melati;;2;Kota Bekasi
+7;P3275020201;JATI ASIH;Jl. Raya Swatantra I1 No. 1, Kec. Jati Asih;;2;Kota Bekasi
+8;P3275020202;JATI LUHUR;Jl. H. Dehir Kp. Pedurenan RT 07 Rw 02, Kec. Jati Asih;;2;Kota Bekasi
+9;P3275030101;BANTAR GEBANG;Jl. Raya Narogong Km 10 No. 75, Kec. Bantar Gebang;;1;Kota Bekasi
+10;P3275031201;MUSTIKA JAYA;Jl. Kota Legenda Mustika Jaya, Kec. Mustika Jaya;;2;Kota Bekasi
+11;P3275040201;DUREN JAYA;Jl. P. Jawa Raya, Kec. Bekasi Timur;;2;Kota Bekasi
+12;P3275040202;WISMA JAYA;Jl. Kusuma Utara 3 No. 1, Kec. Bekasi Timur;;2;Kota Bekasi
+13;P3275040203;KARANG KITRI;Jl. Khairil Anwar No. 111, Kec. Bekasi timur;;2;Kota Bekasi
+14;P3275040204;AREN JAYA;Jl. Melinjo No. 13, Kec. Bekasi Timur;;2;Kota Bekasi
+15;P3275041201;PENGASINAN;Jl. Narogong raya Perumahan Narogong Indah, Kec. Rawa Lumbu;;2;Kota Bekasi
+16;P3275041202;BOJONG MENTENG;Jl. Perjuangan No.1 Bojong Menteng, Kec. Rawa Lumbu;;2;Kota Bekasi
+17;P3275041203;BOJONG RAWA LUMBU;Jl. Trisatya Raya Jembatan 4-5 Perum Bumi, Kec. Rawa Lumbu;;2;Kota Bekasi
+18;P3275050201;PERUMNAS 2;Jl. Belut Raya No. 1 Kayuringin, Kec. Bekasi Selatan;;2;Kota Bekasi
+19;P3275050202;JAKA MULYA;Jl. Surya Merdeka No. 1 Perum Pondok Surya Md Kec. Bekasi Selatan;;2;Kota Bekasi
+20;P3275050203;PEKAYON JAYA;Jl. Pulo Ribung jaya No. 2, Kec. Bekasi Selatan;;2;Kota Bekasi
+21;P3275050204;MARGA JAYA;Jl. Rawa Tembaga I1 No. 2, Kec. Bekasi Selatan;;2;Kota Bekasi
+22;P3275060201;KOTA BARU;Jl. Melinjo Perum Harapan Baru Kec. Bekasi Barat;;2;Kota Bekasi
+23;P3275060202;RAWA TEMBAGA;Jl. Komodo Raya No. 1, Kec. Bekasi Barat;;2;Kota Bekasi
+24;P3275060203;BINTARA;Jl. Bintara 13 No. 89, Kec. Bekasi Barat;;2;Kota Bekasi
+25;P3275060204;BINTARA JAYA;Jl. Tambora No. 1, Kec. Bekasi Barat;;2;Kota Bekasi
+26;P3275060205;KRANJI;Jl. Sakura Perum Duta Kranji, Kec. Bekasi Barat;;2;Kota Bekasi
+27;P3275061201;PEJUANG;Jl. Bungur Raya No. 2 Medan Satria, Kec. Medan Satria;;2;Kota Bekasi
+28;P3275070101;SEROJA;JL. Delima No. 20-21 Kel. Harapan Jaya, Kec. Bekasi Utara;;1;Kota Bekasi
+29;P3275070202;TELUK PUCUNG;Jl. Penuangan No. 1, Kec. Bekasi Utara;;2;Kota Bekasi
+30;P3275070203;MARGA MULYA;Jl. Perjuangan No. 1, Kec. Bekasi Utara;;2;Kota Bekasi
+31;P3275070204;KALIABANG TENGAH;Jl. Anyer 3 Blok D Perum Pondok Surya Mandala, Kec. Bekasi Utara;;2;Kota Bekasi
+11;P3276030101;SUKMAJAYA;Jl. Arjhuna Raya  No. 01 Depok 2, Kec. Sukmajaya;;1;Kota Depok
+18;P3276040101;CIMANGGIS;Jl. Raya Bogor Km 33 Rt. 05/02 Curug, Kec. Cimanggis;;1;Kota Depok
+7;P3276020201;PANCORAN MAS;Jl. Pemuda No. 2 Rt 02/08, Kec. Pancoran Mas;;2;Kota Depok
+8;P3276020202;DEPOK JAYA;Jl. Melati Raya Depok 1 Depok Jaya, Kec. Pancoran Mas;;2;Kota Depok
+9;P3276020203;RANGKAPAN JAYA;Jl. Keadilan Rangkapan Jaya, Kec. Pancoran Mas;;2;Kota Depok
+10;P3276020204;CIPAYUNG;Jl. Jembatan Serong Kel. Cipayung, Kec. Pancoran Mas;;2;Kota Depok
+28;P3276050201;BEJI;Jl. Bambon Raya No. 7B Rt. 01/01 Beji Timur Depok, Kec. Beji;;2;Kota Depok
+30;P3276050203;KEMIRIMUKA;Jl. H. Juanda No. 8 Rt 02/03 Kemiri Muka, Kec. Beji;;2;Kota Depok
+29;P3276050202;TANAH BARU;Perum Depok Mulya 3 Rt. 06/02 Tanah Baru, Kec. Beji;;2;Kota Depok
+16;P3276030206;PONDOK SUKMAJAYA;Perum Pondok Sukmajaya B1 G3 Rt. 02/07, Kec. Sukmajaya;;2;Kota Depok
+12;P3276030202;ABADIJAYA;Jl. Kerinci Raya No.1 Rw 26 Depok 2 Timur, Kec. Sukmajaya;;2;Kota Depok
+13;P3276030203;BHAKTIJAYA;Komp. PELNI Blk G2 Bhakti Jaya, Kec. Sukmajaya;;2;Kota Depok
+17;P3276030207;CILODONG;Komp.Asrama Kostrad Jl. Asram Cilodong Rt.01/01 Kalibaru,Kec. Sukmajaya;;2;Kota Depok
+15;P3276030205;KALIMULYA;Kampung Jati Rt.04/04 Kel Jatimulya, Kec. Sukmajaya;;2;Kota Depok
+14;P3276030204;VILLA PERTIWI;Komp.1ila Pertiwi Rt. 01/16 Kel Sukamaju, Kec. Sukmajaya;;2;Kota Depok
+21;P3276040204;TUGU;Jl. Akses UI Palsi Gunung Rt. 05/03 Ds. Tugu, Kec. Cimanggis;;2;Kota Depok
+24;P3276040207;PASIR GUNUNG SELATA;Komp. 1illa Kalisari Blok B  Rt. 12/01 Pasir Gunung Selatan, Kec. Cimanggis;;2;Kota Depok
+23;P3276040206;HARJAMUKTI;Komp.  Deppen Kel. Harjamukti, Kec. Cimanggis;;2;Kota Depok
+25;P3276040208;MEKARSARI;Jl. Tipar Raya 1 Rt. 04/09 Mekarsari, Kec. Cimanggis;;2;Kota Depok
+20;P3276040203;SUKATANI;Komp Kopasus Jl.Wijaya Kusuma Rt. 04/09 Sukatani, Kec. Cimanggis;;2;Kota Depok
+19;P3276040202;TAPOS;Jl. Raya Tapos Rt 02/12 .Kel. Tapos, Kec. Cimanggis;;2;Kota Depok
+22;P3276040205;JATIJAJAR;Jl. Setu Jatijajar  No. 25 Rt. 07/03 Jatijajar, Kec. Cimanggis;;2;Kota Depok
+26;P3276040209;CILANGKAP;Ko. Banjaran Pucung Rt. 01/07 Cilangkap, Kec. Cimanggis;;2;Kota Depok
+27;P3276040210;CIMPAEUN;Perum Persada Depok Tapos, Kec. Cimanggis;;2;Kota Depok
+1;P3276010201;SAWANGAN;Jl. Raya Muchtar No. 155 Rt. 03/03, Kec. Sawangan;;2;Kota Depok
+4;P3276010204;KEDAUNG;Jl. Pertiwi Raya Komp Bapenas Kedaung, Kec. Sawangan;;2;Kota Depok
+3;P3276010203;PASIR PUTIH;Jl. Raya Pasir Putih (Griya Sawangan Asri), Kec. Sawangan;;2;Kota Depok
+5;P3276010205;PENGASINAN;Komp. BSI 2 Jl. Anggrek Raya, Kec. Sawangan;;2;Kota Depok
+2;P3276010202;DUREN SERIBU;Jl. Delima No. 2 Komp Arco Rt. 002/06 Duren Seribu, Kec. Sawangan;;2;Kota Depok
+6;P3276010206;BOJONGSARI;Jl. Reni Jaya Rt. 01/09 Portal Pondok Petir, Kec. Sawangan;;2;Kota Depok
+32;P3276060202;CINERE;Jl. Cinere Raya  No. 30 Limo, Kec. Limo;;2;Kota Depok
+31;P3276060201;L 1 M O;Jl. Raya Grogol Rt. 01/01 Kel.Grogol, Kec. Limo;;2;Kota Depok
+1;P3277010201;CIMAHI SELATAN;Jl. Baros No. 16 Kel Utama, Kec. Cimahi Selatan;1;2;Kota Cimahi
+2;P3277010202;MELONG ASIH;Jl. Melong Blok 1 No.1 Kel. Melong, Kec. Cimahi Selatan;1;2;Kota Cimahi
+3;P3277010203;CIBEUREUM;Jl. Raya Cibeureum Gang Sekolah Kel. Cibeureum, Kec. Cimahi Selatan;;2;Kota Cimahi
+4;P3277010204;CIBEBER;Kel. Cibeber, Kec. Cimahi Selatan;;2;Kota Cimahi
+5;P3277010205;LEUWIGAJAH;Kel. Leuwigajah, Kec. Cimahi Selatan;;2;Kota Cimahi
+6;P3277010206;MELONG TENGAH;Jl. Melong Tengah Kel. Melong Kec. Cimahi Selatan;1;2;Kota Cimahi
+7;P3277020201;CIMAHI TENGAH;Jl. Pasar Atas No. 5 Kel. Cimahi, Kec. Cimahi Tengah;;2;Kota Cimahi
+8;P3277020202;CIGUGUR TENGAH;Jl. Abdul halim No. 199 Kel. Cigugur, Kec. Cimahi Tengah;;2;Kota Cimahi
+9;P3277020203;PADA SUKA;Jl. Kebon Manggu Kel. Padasuka, Kec. Cimahi Tengah;;2;Kota Cimahi
+10;P3277030201;CIMAHI UTARA;Jl. Serut No.16 Kel.Cibabat, Kec. Cimahi Utara;;2;Kota Cimahi
+11;P3277030202;CIPAGERAN;Jl. Bobojong No. 148 Kel. Cipageran, Kec. Cimahi Utara;;2;Kota Cimahi
+12;P3277030203;PASIRKALIKI;Jl. Cidamar, Kel. Pasir Kaliki, Kec. Cimahi Utara;;2;Kota Cimahi
+13;P3277030204;CITEUREUP;Kel. Citeureup, Kec. Citeureup;;2;Kota Cimahi
+1;P3278010201;KAWALU;Jl. Perintis Kemerdekaan, Kec. Kawalu;;2;Kota Tasikmalaya
+2;P3278010202;KARANGANYAR;Kel. Karanganyar, Kec. Kawalu;;2;Kota Tasikmalaya
+3;P3278010203;LEUWILIANG;Jl. Syeh Abdul Muhyi No. 2 Kec. Kawalu;;2;Kota Tasikmalaya
+4;P3278020201;TAMANSARI;Kel. Sukalaksana, Kec. Tamansari;;2;Kota Tasikmalaya
+5;P3278030201;CIBEUREUM;Jl. Raya Manonjaya, Kec. Cibeureum;;2;Kota Tasikmalaya
+6;P3278031201;PURBARATU;Kel. Purbaratu, Kec. Purbaratu;;2;Kota Tasikmalaya
+7;P3278040201;KAHURIPAN;Jl. Siliwangi, Kec. Tawang;;2;Kota Tasikmalaya
+8;P3278040202;TAWANG;Kel. Tawangsari, Kec. Tawang;;2;Kota Tasikmalaya
+9;P3278050201;CIHIDEUNG;Jl. Paseh No. 227, Kec. Cihideung;;2;Kota Tasikmalaya
+10;P3278050202;CILEMBANG;Jl. Bebedilan, Kec. Cihideung;;2;Kota Tasikmalaya
+11;P3278060201;MANGKUBUMI;Jl. Raya Singaparna, Kec. Mangkubumi;;2;Kota Tasikmalaya
+12;P3278060202;SAMBONGPARI;Jl. S.L. Tobing, Kel. Sambongpari, Kec. Mangkubumi;;2;Kota Tasikmalaya
+13;P3278070201;INDIHIANG;Jl. Lt. Harun, Kec. Indihiang;;2;Kota Tasikmalaya
+14;P3278070202;PARAKANYASAG;Jl. Leuwidahu kaler Kec. Indihiang;;2;Kota Tasikmalaya
+15;P3278071201;BUNGURSARI;Kel. Bungursari, Kec. Bungursari;;2;Kota Tasikmalaya
+16;P3278071202;SUKALAKSANA;Kel. Sukalaksana, Kec. Bungursari;;2;Kota Tasikmalaya
+17;P3278071203;BANTAR;Jl. Bantar Kel. Bantarsari, Kec. Bungursari;;2;Kota Tasikmalaya
+18;P3278080201;CIPEDES;Jl. RE Martadinata No.53, Kec. Cipedes;;2;Kota Tasikmalaya
+19;P3278080202;PANGLAYUNGAN;Jl. Dinding Ari Kec. Cipedes;;2;Kota Tasikmalaya
+20;P3278080203;CIGEUREUNG;Jl. Cigeureung No. 112, Kec. Cipedes;;2;Kota Tasikmalaya
+1;P3279010201;BANJAR 1;Jl. Raya Peta, Kec. Banjar;;2;Kota Banjar
+2;P3279010202;BANJAR 2;Jl. Dr. Husein Kartasasmita  No, 433 Rt 04 Rw 02 Situbatu, Kec. Banjar;;2;Kota Banjar
+3;P3279010203;BANJAR 3;Jl. Kapten Jmahur No. 34, Kec. Banjar;;2;Kota Banjar
+4;P3279020201;PURWAHARJA 1;Jl. Brigjen M. Isa, SH No. 131, Kec. Purwaharja;;2;Kota Banjar
+5;P3279020202;PURWAHARJA 2;JL.Raya Siliwangi No.140 Km 3 Rt 21 Rw 09 Raharja, Kec. Purwaharja;;2;Kota Banjar
+6;P3279030201;PATARUMAN 1;Jl. Mayjend Lili Kusumah No. 458, Kec. Pataruman;;2;Kota Banjar
+7;P3279030202;PATARUMAN 2;Jl. Karyamukti No. 174 Rt. 01 Rw. 4, Kec. Pataruman;;2;Kota Banjar
+8;P3279030203;PATARUMAN 3;Jl. Purwanegara Rt 02 Rw 06-B Lembur Balong, Kec. Patruman;;2;Kota Banjar
+9;P3279040101;LANGENSARI 2;Jl. Majalikin No. 56, Kec. Langensari;;1;Kota Banjar
+10;P3279040202;LANGENSARI 1;Jl. Raya Banjar Km 9, Kec. Langensari;;2;Kota Banjar
