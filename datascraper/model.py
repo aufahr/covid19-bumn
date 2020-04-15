@@ -7,11 +7,12 @@ from lxml import html
 
 class SelectorProcessor(object):
 
-    def __init__(self, selector, processor=None, parser_type='bs4') -> None:
+    def __init__(self, selector, processor=None, parser_type='bs4', attribute=None) -> None:
         super().__init__()
         self.selector = selector
         self.processor = processor
         self.parser_type = parser_type
+        self.attribute = attribute
 
     def process(self, value):
         return self.processor(value)
@@ -82,7 +83,12 @@ class GenericScraperTemplate(object):
                     if selector.parser_type == 'bs4':
                         try:
                             page = BeautifulSoup(site.text, features="lxml")
-                            result[key.replace('_selector', '')] = page.select_one(selector.selector).get_text()
+                            
+                            if selector.attribute is None:
+                              result[key.replace('_selector', '')] =  page.select_one(selector.selector).get_text()
+                            else :
+                              result[key.replace('_selector', '')] =  page.select_one(selector.selector).get(selector.attribute)
+
                             if selector.processor is not None:
                                 result[key.replace('_selector', '')] = selector.processor(
                                     page.select_one(selector.selector).get_text())
@@ -100,13 +106,11 @@ class GenericScraperTemplate(object):
         else:
             result = self.call()
 
-
         if self.result_postprocessor is not None:
             result = self.result_postprocessor(result)
 
-
         result['region'] = self.region
-
+        result['source_type'] = 'individual_website'
         print("{} : {}".format(self.region, result))
         return result
 

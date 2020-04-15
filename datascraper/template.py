@@ -470,4 +470,27 @@ all_website = [
                                positive_recovered_selector=SelectorProcessor(
                                    'body > div:nth-child(3) > div:nth-child(2) > div.col-md-9 > div:nth-child(2) > div.panel-body > div > div > div:nth-child(17) > div > div.inner > h3')
                            )),
+    GenericScraperTemplate(region='Kabupaten Pangandaran',
+                           url='https://covid19.purwakartakab.go.id/',
+                           selectors=
+                           Selectors(
+                               last_updated_selector=SelectorProcessor(
+                                   './/*[@id="data"]/h4',
+                                   parser_type='lxml'
+                                   ),
+                               odp_selector=SelectorProcessor(
+                                   '#data > div:nth-child(4) > div:nth-child(1) > div > div.sb-msg > div > div:nth-child(3) > div.counter.center > span', attribute='data-to'),
+                               odp_done_selector=SelectorProcessor(
+                                   '#data > div:nth-child(4) > div:nth-child(1) > div > div.sb-msg > div > div:nth-child(5) > div.counter.center > span'),
+                               pdp_selector=SelectorProcessor(
+                                   '#data > div:nth-child(4) > div:nth-child(1) > div > div.sb-msg > div > div:nth-child(5) > div.counter.center > span'),
+                               pdp_done_selector=SelectorProcessor(
+                                   '#data > div:nth-child(4) > div:nth-child(2) > div > div.sb-msg > div:nth-child(5) > div.counter.center > span'),
+                               positive_selector=SelectorProcessor(
+                                   '#data > div:nth-child(3) > div:nth-child(1) > div > div.sb-msg > div > span'),
+                               positive_death_selector=SelectorProcessor(
+                                   '#data > div:nth-child(3) > div:nth-child(3) > div > div.sb-msg > div > span'),
+                               positive_recovered_selector=SelectorProcessor(
+                                   '#data > div:nth-child(3) > div:nth-child(2) > div > div.sb-msg > div > span')
+                           )),
 ]

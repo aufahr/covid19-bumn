@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "statistik-covid-19-jabar",
+  "private_key_id": "f683fd49fd676429d89ef4c9f9dd57c24b8ed1a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCPDaGV4tQ0RsLQ\npXUAY1pEiatBDn4sJ2Cza2Ynm0X7F1wmtRgXDaoxSsunY1wkO3/2rSc9zca5sV6d\njjXca1uD7lRy8kbsf3NBLcJXJ+k2oO4V173H6KzMkZBqzJUiyV0vP3xQgYBENbu7\nbzBTW+mlz/O1KhL1laXwr6eMKSBa821MvXS01omL4i63mYQA/rhDn1IztSLN4n/A\nVJwQBiYdvl6D8DgngsfX0m6QPdV1HrW3yIEmFX0jWVfGkf917387jd2YdbbWVQE1\nLKFNOUsPGxEPsF0Tja2zCj3jnr/C2vOuQZ0kK5DRTR4/5jtQyIR/yFC3/P45gTNb\nqCd837AfAgMBAAECggEAP1Vin7BwEMDvSV6ngUd7VHK67i+Tbsr0RhsbfBeDkRoT\ng1OT2ckD+5TIu1ADIEtzaOvaPsOW4umDITAv6mlhd/SRUN6wxc3bYhT3QIz79GKl\nZehBLnt13Y/op0/yCxepeNyblizvc8NyXRZqB83ekLmThTaedDoP4JJ0FFq0527L\nAjs9ltXnr9YKR5EGfSy+1Q8LR9hm0V09FCCo5/nJ50LKWhXq0kJc/qqdiCI7n4bp\nPASN1q2WzFN1YoNk1JPZC43hrbfakyVOsTxyUjS6i6rARJk37Y1/LI/9wMtzg3t2\n6mN+adg2YpSLx7Mbwn3gYfZksankrCBJW2Y3a/xIgQKBgQDFYwsZFtZA1sk6VE7E\nf6oFNA7tIIuJDpKRldSFN2DE4xvtlyozoPN4UWulvxAClKKFZ47mOX+rIv5tcsqV\nc8xrdxk0EJgyTDNunAOIZ5sfFib6OqzS6n9GHvpw24h0MREJYe7TGzu5BBKptclN\nKchjIJDccbwnEDPr5WNA08FWQQKBgQC5iEDH23wBMLXe/tkW4vtki+PtnvUP/Jiw\nnQaGfLi9E4ZX3Bq8tqcIlC18aXUmtOCEdYxbiZrT3SGhSB3ruYR+25KbAvWcXt00\nWJDi6XSXT1QIA+CfUeu3AvKw41ZfxBbHI8KmM539YXkvCdPGSN3RmHifwznpU+ia\nrLhDfGEuXwKBgQDEWpRtruQPuBqRZdC9dGoDpxe6GAf2nYJ8RNoWc1JWSb48iYW3\nukK4y/YT+Y7JomZR4wSqTUSNT9BdvDV+mqUdumpd+qwMTPVU8OoqxTXwpK69eaT2\nY8OcU7C6mAiT3UOfW8aiRpMQp9aQ8H+BvTDUO08fnByZl2qvHY+wq3XGgQKBgCJR\nG3pcFJG7ysgWZ10eWtV8MoqPLlDore1s/fn+M8V1SRITOjbRqg+iKM+sSekA585Y\nV7/Osf6iFkhYqIAjbmhwgKt/XqKvwUafYx01hUU/fRGGdhPB+VF+kBk704wfHv9y\nk9xeC8kEMIAM10kDzVOpWhZi6+FGje2eKO8CoI8NAoGAdeJHvx9u9nFy6fjlmKCI\neHDUCoO0pyXWUtRotzd4X7AsZjV8bMCQ7TdohmAZrrgpInkJ+uK4BQ9ShRkwyAHG\n9UJsdsihidUi06cWRfX0m57XJIxFJaWW6u3p0S/mkyQZAGW8f4SOsv5M34PNZhPt\ng0dA4DESO5JZgY5LM52ZrIY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jetroadster@statistik-covid-19-jabar.iam.gserviceaccount.com",
+  "client_id": "107301769607261354316",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jetroadster%40statistik-covid-19-jabar.iam.gserviceaccount.com"
+}
