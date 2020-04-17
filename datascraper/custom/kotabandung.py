@@ -29,8 +29,8 @@ def call():
     data = response.json()['data']
 
     result = {
-        'scraped_datetime': datetime.datetime.now(),
-        'last_updated': data['date'],
+        'scraped_datetime': str(datetime.datetime.now()),
+        'last_updated': data['date'].split("T")[0],
         'odp': data['total_odp'],
         'odp_done': data['total_odp_selesai'],
         'pdp': data['total_pdp'],

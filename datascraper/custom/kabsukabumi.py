@@ -18,7 +18,7 @@ def call():
 
 
     result = {
-        'scraped_datetime': datetime.datetime.now(),
+        'scraped_datetime': str(datetime.datetime.now()),
         'last_updated': data[-1]['period'],
         'odp': data[-1]['ODP_Dalam_Pantauan'],
         'odp_done': data[-1]['ODP_Selesai'],

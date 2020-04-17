@@ -47,7 +47,7 @@ def kab_bogor_call():
         positive_recovered = add(positive_recovered, item['attributes']['recovered'])
 
     return {
-        'scraped_datetime' : datetime.datetime.now(),
+        'scraped_datetime' : str(datetime.datetime.now()),
         'last_updated' : None,
         'odp': odp,
         'odp_done': odp_done,

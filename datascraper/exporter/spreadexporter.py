@@ -2,7 +2,7 @@ import gspread_db
 import datetime
 from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
-
+import time
 
 
 def export(web_data):
@@ -46,16 +46,17 @@ def export(web_data):
     data_db = db['data']
 
     for d in web_data:
-        update_id = "{}-{}-{}".format(d['scraped_datetime'].split(" ")[0],
+        update_id = "{}-{}-{}".format(str(d['scraped_datetime']).split(" ")[0],
         d['source_type'], d['region'])
         
         d['update_id'] = update_id
-
-        print("")
-        print(d.keys())
-        print("")
 
         if len(data_db.select('update_id', update_id)) > 0:
             data_db.update('update_id', update_id, new_values=d)
         else:
             data_db.insert(d)
+        
+        time.sleep(1)
+  
+
+    print("done")

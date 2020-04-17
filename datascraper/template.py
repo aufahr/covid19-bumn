@@ -1,4 +1,4 @@
-from custom import kabbogor, kabcianjur, kabgarut, kabsukabumi, kotabandung
+from custom import kabbogor, kabcianjur, kabgarut, kabsukabumi, kotabandung, ciamis
 from model import GenericScraperTemplate, Selectors, SelectorProcessor
 from util import get_number_only, get_number_only2, get_number_only3, get_number_only4, get_date
 
@@ -7,11 +7,34 @@ all_website = [
                            url='https://covid-19.bogorkab.go.id/',
                            exec_type='CUSTOM',
                            call=kabbogor.kab_bogor_call),
-    GenericScraperTemplate(region='Kabupaten Sukabumi',
+    GenericScraperTemplate(region='Kota Sukabumi',
                            url='https://covid19.sukabumikota.go.id/new/index.php/welcome/grafik/2',
                            exec_type='CUSTOM',
                            call=kabsukabumi.call
                            ),
+    GenericScraperTemplate(region='Kabupaten Sukabumi',
+                           url='https://covid19.cianjurkab.go.id/',
+                           selectors=
+                           Selectors(
+                               last_updated_selector=SelectorProcessor(
+                                   './html/body/main/div[2]/div[3]/div/p',
+                               get_date,
+                               parser_type='lxml'),
+                               odp_selector=SelectorProcessor(
+                                   './html/body/main/div[2]/div[4]/div[5]/div/div/h4',
+                                   get_number_only,
+                                   parser_type='lxml'),
+                               pdp_selector=SelectorProcessor(
+                                   './html/body/main/div[2]/div[4]/div[4]/div/div/h4',
+                                   get_number_only,
+                                   parser_type='lxml'
+                               ),
+                               positive_selector=SelectorProcessor(
+                                   './html/body/main/div[2]/div[4]/div[3]/div/div/h4',
+                                   get_number_only,
+                                   parser_type='lxml'
+                               ),
+                           )),
     GenericScraperTemplate(region='Kabupaten Cianjur',
                            url='https://covid19.cianjurkab.go.id/',
                            selectors=
@@ -49,7 +72,7 @@ all_website = [
                                    parser_type='lxml'
                                ),
                                positive_death_selector=SelectorProcessor(
-                                   './/*[@id="post-30"]/div/div[2]/div/div/div/div[3]/div[3]/div/div[2]/table/tbody/tr[3]/td[2]/h2/strong/span',
+                                   './/*[@id="post-30"]/div/div[2]/div/div/div/div[3]/div[3]/div/div[2]/table/tbody/tr[3]/td[2]/h2',
                                    parser_type='lxml'
                                )
                            )),
@@ -58,28 +81,36 @@ all_website = [
                            selectors=
                            Selectors(
                                last_updated_selector=SelectorProcessor(
-                                   './/*[@id="statistic"]/div/div[1]/p', get_date, parser_type='lxml'),
+                                   './/*[@id="peta"]/div/div/div/div/div[2]/p[2]', get_date, parser_type='lxml'),
                                odp_selector=SelectorProcessor(
-                                   './/*[@id="statistic"]/div/div[5]/div/div/div/div[1]/h3/span',
+                                   './/*[@id="peta"]/div/div/div/div/div[2]/div[2]/div[2]/div/div[2]/p[1]',
                                    get_number_only,
                                    parser_type='lxml'),
                                odp_done_selector=SelectorProcessor(
-                                   './/*[@id="statistic"]/div/div[5]/div/div/div/div[2]/h3/span',
+                                   './/*[@id="peta"]/div/div/div/div/div[2]/div[2]/div[2]/div/div[2]/p[2]',
+                                   get_number_only,
                                    parser_type='lxml'),
                                pdp_selector=SelectorProcessor(
-                                   './/*[@id="statistic"]/div/div[6]/div/div/div/div[1]/h3/span',
+                                   './/*[@id="peta"]/div/div/div/div/div[2]/div[2]/div[3]/div/div[2]/p[1]',
+                                   get_number_only,
                                    parser_type='lxml'),
                                pdp_done_selector=SelectorProcessor(
-                                   './/*[@id="statistic"]/div/div[6]/div/div/div/div[2]/h3/span',
+                                   './/*[@id="peta"]/div/div/div/div/div[2]/div[2]/div[3]/div/div[2]/p[2]',
+                                   get_number_only,
                                    parser_type='lxml'),
+                                pdp_death_selector=SelectorProcessor('//*[@id="peta"]/div/div/div/div/div[2]/div[2]/div[3]/div/div[2]/p[3]', get_number_only,
+                                parser_type='lxml'),
                                positive_selector=SelectorProcessor(
-                                   './/*[@id="statistic"]/div/div[2]/div/div/div[2]/h4/span[2]',
+                                   './/*[@id="peta"]/div/div/div/div/div[2]/div[2]/div[4]/div/div[2]/p[1]',
+                                   get_number_only,
                                    parser_type='lxml'),
                                positive_recovered_selector=SelectorProcessor(
-                                   './/*[@id="statistic"]/div/div[3]/div/div/div[2]/h4/span[2]',
+                                   './/*[@id="peta"]/div/div/div/div/div[2]/div[2]/div[4]/div/div[2]/p[2]',
+                                   get_number_only,
                                    parser_type='lxml'),
                                positive_death_selector=SelectorProcessor(
-                                   './/*[@id="statistic"]/div/div[4]/div/div/div[2]/h4/span[2]',
+                                   './/*[@id="peta"]/div/div/div/div/div[2]/div[2]/div[4]/div/div[2]/p[3]',
+                                   get_number_only,
                                    parser_type='lxml')
                            )),
     GenericScraperTemplate(region='Kabupaten Garut',
@@ -87,13 +118,9 @@ all_website = [
                            exec_type='CUSTOM',
                            call=kabgarut.call
                            ),
-    GenericScraperTemplate(region='Kabupaten Tasikmalaya',
-                           url='https://sigesit119.tasikmalayakab.go.id/',
-                           exec_type='CUSTOM',
-                           call=kabgarut.call
-                           ),
     GenericScraperTemplate(region='Kabupaten Ciamis',
                            url='https://pikcovid19.ciamiskab.go.id/',
+                           result_postprocessor=ciamis.recalc,
                            selectors=
                            Selectors(
                                last_updated_selector=SelectorProcessor(
@@ -146,9 +173,8 @@ all_website = [
                                    get_number_only,
                                    parser_type='lxml'),
                                pdp_done_selector=SelectorProcessor(
-                                   './/*[@id="about"]/div/div/div/div/div/section[7]/div/div/div[2]/div/div/section/div/div/div[2]/div/div/div/div/div/h4/span',
-                                   get_number_only,
-                                   parser_type='lxml'),
+                                   '#views-bootstrap-dashboard-judul-block-1 > div > div > div > span > div:nth-child(3) > div:nth-child(1) > div > div.card-body',
+                                   get_number_only2),
                                positive_selector=SelectorProcessor(
                                    './/*[@id="views-bootstrap-dashboard-judul-block-1"]/div/div/div/span/div[2]/div[2]/div/div[2]',
                                    get_number_only,
@@ -257,7 +283,7 @@ all_website = [
                            selectors=
                            Selectors(
                                last_updated_selector=SelectorProcessor(
-                                   'body > div.hlt_whitebg.hlt_wedo > div > div > div.col-lg-12.col-md-12.col-sm-12.col-xs-12 > div > p'),
+                                   'body > div.hlt_whitebg.hlt_wedo > div > div > div.col-lg-12.col-md-12.col-sm-12.col-xs-12 > div > p', get_date),
                                positive_selector=SelectorProcessor(
                                    'body > div.hlt_whitebg.hlt_wedo > div > div > div:nth-child(2) > div > p > b'),
                                positive_recovered_selector=SelectorProcessor(
@@ -283,38 +309,62 @@ all_website = [
                                last_updated_selector=SelectorProcessor(
                                    './/*[@id="peta"]/div/div/div/div/div[2]/p[2]', get_date, parser_type='lxml'),
                                odp_selector=SelectorProcessor(
-                                   './/*[@id="peta"]/div/div/div/div/div[2]/div[2]/div[1]/div/div[2]/p[1]',
-                                   get_number_only,
-                                   parser_type='lxml'),
-                               odp_done_selector=SelectorProcessor(
-                                   './/*[@id="peta"]/div/div/div/div/div[2]/div[2]/div[1]/div/div[2]/p[2]',
-                                   get_number_only,
-                                   parser_type='lxml'),
-                               pdp_selector=SelectorProcessor(
                                    './/*[@id="peta"]/div/div/div/div/div[2]/div[2]/div[2]/div/div[2]/p[1]',
                                    get_number_only,
                                    parser_type='lxml'),
-                               pdp_death_selector=SelectorProcessor(
-                                   './/*[@id="peta"]/div/div/div/div/div[2]/div[2]/div[2]/div/div[2]/p[3]',
-                                   get_number_only,
-                                   parser_type='lxml'),
-                               pdp_done_selector=SelectorProcessor(
+                               odp_done_selector=SelectorProcessor(
                                    './/*[@id="peta"]/div/div/div/div/div[2]/div[2]/div[2]/div/div[2]/p[2]',
                                    get_number_only,
                                    parser_type='lxml'),
-                               positive_selector=SelectorProcessor(
+                               pdp_selector=SelectorProcessor(
                                    './/*[@id="peta"]/div/div/div/div/div[2]/div[2]/div[3]/div/div[2]/p[1]',
                                    get_number_only,
                                    parser_type='lxml'),
-                               positive_death_selector=SelectorProcessor(
+                               pdp_death_selector=SelectorProcessor(
                                    './/*[@id="peta"]/div/div/div/div/div[2]/div[2]/div[3]/div/div[2]/p[3]',
                                    get_number_only,
                                    parser_type='lxml'),
-                               positive_recovered_selector=SelectorProcessor(
+                               pdp_done_selector=SelectorProcessor(
                                    './/*[@id="peta"]/div/div/div/div/div[2]/div[2]/div[3]/div/div[2]/p[2]',
+                                   get_number_only,
+                                   parser_type='lxml'),
+                               positive_selector=SelectorProcessor(
+                                   './/*[@id="peta"]/div/div/div/div/div[2]/div[2]/div[4]/div/div[2]/p[1]',
+                                   get_number_only,
+                                   parser_type='lxml'),
+                               positive_death_selector=SelectorProcessor(
+                                   './/*[@id="peta"]/div/div/div/div/div[2]/div[2]/div[4]/div/div[2]/p[3]',
+                                   get_number_only,
+                                   parser_type='lxml'),
+                               positive_recovered_selector=SelectorProcessor(
+                                   './/*[@id="peta"]/div/div/div/div/div[2]/div[2]/div[4]/div/div[2]/p[2]',
                                    get_number_only,
                                    parser_type='lxml')
                            )),
+    GenericScraperTemplate(region='Kota Bogor',
+                           url='http://covid19.kotabogor.go.id/',
+                           selectors=
+                           Selectors(
+                               last_updated_selector=SelectorProcessor(
+                                   'body > div:nth-child(3) > div:nth-child(2) > div.col-md-9 > div:nth-child(2) > div.panel-heading.head.bluedark > strong > b:nth-child(1)',
+                               get_date),
+                               odp_selector=SelectorProcessor(
+                                   'body > div:nth-child(3) > div:nth-child(2) > div.col-md-9 > div:nth-child(2) > div.panel-body > div > div > div:nth-child(8) > div > div.inner > h3'),
+                               odp_done_selector=SelectorProcessor(
+                                   'body > div:nth-child(3) > div:nth-child(2) > div.col-md-9 > div:nth-child(2) > div.panel-body > div > div > div:nth-child(7) > div > div.inner > h3'),
+                               pdp_selector=SelectorProcessor(
+                                   'body > div:nth-child(3) > div:nth-child(2) > div.col-md-9 > div:nth-child(2) > div.panel-body > div > div > div:nth-child(13) > div > div.inner > h3'),
+                               pdp_death_selector=SelectorProcessor(
+                                   'body > div:nth-child(3) > div:nth-child(2) > div.col-md-9 > div:nth-child(2) > div.panel-body > div > div > div:nth-child(14) > div > div.inner > h3'),
+                               pdp_done_selector=SelectorProcessor(
+                                   'body > div:nth-child(3) > div:nth-child(2) > div.col-md-9 > div:nth-child(2) > div.panel-body > div > div > div:nth-child(12) > div > div.inner > h3'),
+                               positive_selector=SelectorProcessor(
+                                   'body > div:nth-child(3) > div:nth-child(2) > div.col-md-9 > div:nth-child(2) > div.panel-body > div > div > div:nth-child(18) > div > div.inner > h3'),
+                               positive_death_selector=SelectorProcessor(
+                                   'body > div:nth-child(3) > div:nth-child(2) > div.col-md-9 > div:nth-child(2) > div.panel-body > div > div > div:nth-child(19) > div > div.inner > h3'),
+                               positive_recovered_selector=SelectorProcessor(
+                                   'body > div:nth-child(3) > div:nth-child(2) > div.col-md-9 > div:nth-child(2) > div.panel-body > div > div > div:nth-child(17) > div > div.inner > h3')
+                          )),
     GenericScraperTemplate(region='Kota Bandung',
                            url='https://covid19.bandung.go.id/',
                            exec_type='CUSTOM',
@@ -353,7 +403,7 @@ all_website = [
                            selectors=
                            Selectors(
                                last_updated_selector=SelectorProcessor(
-                                   './/*[@id="content"]/main/section/div/div[2]/div[1]/h5', parser_type='lxml'),
+                                   './/*[@id="content"]/main/section/div/div[2]/div[1]/h5',get_date, parser_type='lxml'),
                                odp_selector=SelectorProcessor(
                                    './/*[@id="content"]/main/section/div/div[2]/div[6]/div/div[2]/div/div[1]/h4',
                                    get_number_only,
@@ -445,52 +495,5 @@ all_website = [
                                positive_recovered_selector=SelectorProcessor(
                                    './/*[@id="center"]/div/p/b[2]',
                                    parser_type='lxml'),
-                           )),
-    GenericScraperTemplate(region='Kota Bogor',
-                           url='http://covid19.kotabogor.go.id/',
-                           selectors=
-                           Selectors(
-                               last_updated_selector=SelectorProcessor(
-                                   'body > div:nth-child(3) > div:nth-child(2) > div.col-md-9 > div:nth-child(2) > div.panel-heading.head.bluedark > strong > b:nth-child(1)',
-                               get_date),
-                               odp_selector=SelectorProcessor(
-                                   'body > div:nth-child(3) > div:nth-child(2) > div.col-md-9 > div:nth-child(2) > div.panel-body > div > div > div:nth-child(8) > div > div.inner > h3'),
-                               odp_done_selector=SelectorProcessor(
-                                   'body > div:nth-child(3) > div:nth-child(2) > div.col-md-9 > div:nth-child(2) > div.panel-body > div > div > div:nth-child(7) > div > div.inner > h3'),
-                               pdp_selector=SelectorProcessor(
-                                   'body > div:nth-child(3) > div:nth-child(2) > div.col-md-9 > div:nth-child(2) > div.panel-body > div > div > div:nth-child(13) > div > div.inner > h3'),
-                               pdp_death_selector=SelectorProcessor(
-                                   'body > div:nth-child(3) > div:nth-child(2) > div.col-md-9 > div:nth-child(2) > div.panel-body > div > div > div:nth-child(14) > div > div.inner > h3'),
-                               pdp_done_selector=SelectorProcessor(
-                                   'body > div:nth-child(3) > div:nth-child(2) > div.col-md-9 > div:nth-child(2) > div.panel-body > div > div > div:nth-child(12) > div > div.inner > h3'),
-                               positive_selector=SelectorProcessor(
-                                   'body > div:nth-child(3) > div:nth-child(2) > div.col-md-9 > div:nth-child(2) > div.panel-body > div > div > div:nth-child(18) > div > div.inner > h3'),
-                               positive_death_selector=SelectorProcessor(
-                                   'body > div:nth-child(3) > div:nth-child(2) > div.col-md-9 > div:nth-child(2) > div.panel-body > div > div > div:nth-child(19) > div > div.inner > h3'),
-                               positive_recovered_selector=SelectorProcessor(
-                                   'body > div:nth-child(3) > div:nth-child(2) > div.col-md-9 > div:nth-child(2) > div.panel-body > div > div > div:nth-child(17) > div > div.inner > h3')
-                           )),
-    GenericScraperTemplate(region='Kabupaten Pangandaran',
-                           url='https://covid19.purwakartakab.go.id/',
-                           selectors=
-                           Selectors(
-                               last_updated_selector=SelectorProcessor(
-                                   './/*[@id="data"]/h4',
-                                   parser_type='lxml'
-                                   ),
-                               odp_selector=SelectorProcessor(
-                                   '#data > div:nth-child(4) > div:nth-child(1) > div > div.sb-msg > div > div:nth-child(3) > div.counter.center > span', attribute='data-to'),
-                               odp_done_selector=SelectorProcessor(
-                                   '#data > div:nth-child(4) > div:nth-child(1) > div > div.sb-msg > div > div:nth-child(5) > div.counter.center > span'),
-                               pdp_selector=SelectorProcessor(
-                                   '#data > div:nth-child(4) > div:nth-child(1) > div > div.sb-msg > div > div:nth-child(5) > div.counter.center > span'),
-                               pdp_done_selector=SelectorProcessor(
-                                   '#data > div:nth-child(4) > div:nth-child(2) > div > div.sb-msg > div:nth-child(5) > div.counter.center > span'),
-                               positive_selector=SelectorProcessor(
-                                   '#data > div:nth-child(3) > div:nth-child(1) > div > div.sb-msg > div > span'),
-                               positive_death_selector=SelectorProcessor(
-                                   '#data > div:nth-child(3) > div:nth-child(3) > div > div.sb-msg > div > span'),
-                               positive_recovered_selector=SelectorProcessor(
-                                   '#data > div:nth-child(3) > div:nth-child(2) > div > div.sb-msg > div > span')
                            )),
 ]

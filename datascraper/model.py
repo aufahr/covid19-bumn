@@ -74,37 +74,38 @@ class GenericScraperTemplate(object):
 
     def execute(self):
         result = {'scraped_datetime': str(datetime.datetime.now())}
+        try:
+          if self.exec_type == 'GET':
+              site = requests.get(self.url, verify=False)
+              for key, selector in self.selectors.__dict__.items():
+                  if selector is not None:
+                      if selector.parser_type == 'bs4':
+                          try:
+                              page = BeautifulSoup(site.text, features="lxml")
+                              
+                              if selector.attribute is None:
+                                result[key.replace('_selector', '')] =  page.select_one(selector.selector).get_text()
+                              else :
+                                result[key.replace('_selector', '')] =  page.select_one(selector.selector).get(selector.attribute)
 
-
-        if self.exec_type == 'GET':
-            site = requests.get(self.url, verify=False)
-            for key, selector in self.selectors.__dict__.items():
-                if selector is not None:
-                    if selector.parser_type == 'bs4':
-                        try:
-                            page = BeautifulSoup(site.text, features="lxml")
-                            
-                            if selector.attribute is None:
-                              result[key.replace('_selector', '')] =  page.select_one(selector.selector).get_text()
-                            else :
-                              result[key.replace('_selector', '')] =  page.select_one(selector.selector).get(selector.attribute)
-
-                            if selector.processor is not None:
-                                result[key.replace('_selector', '')] = selector.processor(
-                                    page.select_one(selector.selector).get_text())
-                        except Exception as e:
-                            result[key.replace('_selector', '')] = e
-                    else:
-                        try:
-                            page = html.fromstring(site.text)
-                            result[key.replace('_selector', '')] = page.findall(selector.selector)[0].text
-                            if selector.processor is not None:
-                                result[key.replace('_selector', '')] = selector.processor(
-                                    page.findall(selector.selector)[0].text)
-                        except Exception as e:
-                            result[key.replace('_selector', '')] = e
-        else:
-            result = self.call()
+                              if selector.processor is not None:
+                                  result[key.replace('_selector', '')] = selector.processor(
+                                      page.select_one(selector.selector).get_text())
+                          except Exception as e:
+                              result[key.replace('_selector', '')] = str(e)
+                      else:
+                          try:
+                              page = html.fromstring(site.text)
+                              result[key.replace('_selector', '')] = page.findall(selector.selector)[0].text
+                              if selector.processor is not None:
+                                  result[key.replace('_selector', '')] = selector.processor(
+                                      page.findall(selector.selector)[0].text)
+                          except Exception as e:
+                              result[key.replace('_selector', '')] = str(e)
+          else:
+              result = self.call()
+        except Exception as e:
+          print(e)
 
         if self.result_postprocessor is not None:
             result = self.result_postprocessor(result)
